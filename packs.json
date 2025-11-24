@@ -1,0 +1,53 @@
+{
+  "packs": [
+    {
+      "id": "mn01",
+      "nombre": "Morral Normal",
+      "descripcion": "Inventario estándar de botiquín de primeros auxilios.",
+      "items": [
+        {"nombre": "Alcohol o sanitizante de manos", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Antiseptico (clorhexidina o iodo)", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Aposito", "cantidad": "Opcional", "unidad": "unidad"},
+        {"nombre": "Aspina / Aspirineta", "cantidad": "1/3", "unidad": "unidades"},
+        {"nombre": "Baja lenguas", "cantidad": 5, "unidad": "unidades"},
+        {"nombre": "Barbijos", "cantidad": 5, "unidad": "unidades"},
+        {"nombre": "Bolsas patológicas", "cantidad": 6, "unidad": "unidades"},
+        {"nombre": "Botella de agua", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Cinta hipoalergenica (2,5 o 5cm)", "cantidad": 2, "unidad": "unidades"},
+        {"nombre": "Cinta de perímetro (5m)", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Código QR", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Curitas", "cantidad": 10, "unidad": "unidades"},
+        {"nombre": "Estetoscopio adulto", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Estetoscopio pediátrico", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Gasas 10x10", "cantidad": 10, "unidad": "unidades"},
+        {"nombre": "Guantes de latex C", "cantidad": 6, "unidad": "pares"},
+        {"nombre": "Guantes de latex G", "cantidad": 6, "unidad": "pares"},
+        {"nombre": "Guantes de latex M", "cantidad": 6, "unidad": "pares"},
+        {"nombre": "Guantes de nitrilo M", "cantidad": "Opcional", "unidad": "pares"},
+        {"nombre": "Guantes de trabajo", "cantidad": 3, "unidad": "pares"},
+        {"nombre": "Lapiceras", "cantidad": 2, "unidad": "unidades"},
+        {"nombre": "Linterna (pilas)", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Mascarilla de RCP", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Pinza de disección", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Planillas y tablita", "cantidad": "15 o mas", "unidad": "unidades"},
+        {"nombre": "Protectores auditivos", "cantidad": "2 (opcional)", "unidad": "pares"},
+        {"nombre": "Saturómetro (pilas)", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Sobres de azúcar", "cantidad": 5, "unidad": "unidades"},
+        {"nombre": "Sobres de sal", "cantidad": 2, "unidad": "unidades"},
+        {"nombre": "Solución fisiológica", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Spray frío", "cantidad": "Opcional", "unidad": "unidad"},
+        {"nombre": "Tensiometro adulto", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Tensiometro bebe", "cantidad": "1 (opcionla)", "unidad": "unidad"},
+        {"nombre": "Tensiometro pediátrico", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Termómetro (pilas)", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Tijera de trauma", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Vaselina", "cantidad": 1, "unidad": "unidad"},
+        {"nombre": "Vasos descartables", "cantidad": 5, "unidad": "unidades"},
+        {"nombre": "Vendas 10cm.", "cantidad": 3, "unidad": "unidades"},
+        {"nombre": "Vendas 15cm.", "cantidad": 3, "unidad": "unidades"},
+        {"nombre": "Vendas 5cm.", "cantidad": 3, "unidad": "unidades"},
+        {"nombre": "Vendas 7cm.", "cantidad": 3, "unidad": "unidades"}
+      ]
+    }
+  ]
+}
