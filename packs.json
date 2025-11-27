@@ -1,5 +1,6 @@
-{
-  "packs": [
+{ "packs": 
+
+  [
     {
       "id": "mn01",
       "nombre": "Morral Normal",
@@ -23,7 +24,9 @@
             {"nombre": "Vendas 10cm.", "cantidad": 3},
             {"nombre": "Vendas 15cm.", "cantidad": 3},
             {"nombre": "Vendas 5cm.", "cantidad": 3},
-            {"nombre": "Vendas 7cm.", "cantidad": 3}
+            {"nombre": "Vendas 7cm.", "cantidad": 3},
+            {"nombre": "Curitas", "cantidad": 10},
+            {"nombre": "Gasas 10x10", "cantidad": 10}
           ]
         },
         {
@@ -39,7 +42,7 @@
           "esGrupo": true,
           "items": [
             {"nombre": "Tensiometro adulto", "cantidad": 1},
-            {"nombre": "Tensiometro bebe", "cantidad": "1 (opcionla)"},
+            {"nombre": "Tensiometro bebe", "cantidad": "1 (opcional)"},
             {"nombre": "Tensiometro pediátrico", "cantidad": 1}
           ]
         },
@@ -51,6 +54,27 @@
             {"nombre": "Cinta de perímetro (5m)", "cantidad": 1}
           ]
         },
+        {
+          "nombre": "Planillaje",
+          "esGrupo": true,
+          "items": [
+
+            {"nombre": "Planillas y tablita", "cantidad": "15 o mas"},
+            {"nombre": "Lapiceras", "cantidad": 2},
+            {"nombre": "Código QR", "cantidad": 1}
+          ]
+        },
+        {
+          "nombre": "Presion Baja y Descompensacion",
+          "esGrupo": true,
+          "items": [
+
+            {"nombre": "Sobres de azúcar", "cantidad": 5},
+            {"nombre": "Sobres de sal", "cantidad": 2},
+            {"nombre": "Vasos descartables", "cantidad": 5}
+          ]
+        },
+
         {"nombre": "Alcohol o sanitizante de manos", "cantidad": 1},
         {"nombre": "Antiseptico (clorhexidina o iodo)", "cantidad": 1},
         {"nombre": "Aposito", "cantidad": "Opcional"},
@@ -59,31 +83,72 @@
         {"nombre": "Barbijos", "cantidad": 5},
         {"nombre": "Bolsas patológicas", "cantidad": 6},
         {"nombre": "Botella de agua", "cantidad": 1},
-        {"nombre": "Código QR", "cantidad": 1},
-        {"nombre": "Curitas", "cantidad": 10},
-        {"nombre": "Gasas 10x10", "cantidad": 10},
-        {"nombre": "Lapiceras", "cantidad": 2},
         {"nombre": "Linterna (pilas)", "cantidad": 1},
         {"nombre": "Mascarilla de RCP", "cantidad": 1},
         {"nombre": "Pinza de disección", "cantidad": 1},
-        {"nombre": "Planillas y tablita", "cantidad": "15 o mas"},
         {"nombre": "Protectores auditivos", "cantidad": "2 (opcional)"},
         {"nombre": "Saturómetro (pilas)", "cantidad": 1},
-        {"nombre": "Sobres de azúcar", "cantidad": 5},
-        {"nombre": "Sobres de sal", "cantidad": 2},
         {"nombre": "Solución fisiológica", "cantidad": 1},
         {"nombre": "Spray frío", "cantidad": "Opcional"},
         {"nombre": "Termómetro (pilas)", "cantidad": 1},
         {"nombre": "Tijera de trauma", "cantidad": 1},
-        {"nombre": "Vaselina", "cantidad": 1},
-        {"nombre": "Vasos descartables", "cantidad": 5}
+        {"nombre": "Vaselina", "cantidad": 1}
       ]
-    },{
+    },  
+    {
 
       "id": "mn02",
       "nombre": "Botiquin de Puesto PPAA",
       "descripcion": "Para puesto.",
-      "items": [
+      "items": [        
+        {
+          "nombre": "Guantes",
+          "esGrupo": true,
+          "items": [
+            {"nombre": "Guantes de latex C", "cantidad": 6},
+            {"nombre": "Guantes de latex G", "cantidad": 6},
+            {"nombre": "Guantes de latex M", "cantidad": 6},
+            {"nombre": "Guantes de nitrilo M", "cantidad": "Opcional"},
+            {"nombre": "Guantes de trabajo", "cantidad": 3}
+          ]
+        },{
+          "nombre": "Tensiómetros",
+          "esGrupo": true,
+          "items": [
+            {"nombre": "Tensiómetro aneroide adulto con estetoscopio", "cantidad": 1},
+            {"nombre": "Tensiómetro aneroide pediátrico con estetoscopio", "cantidad": 1},
+            {"nombre": "Tensiómetro digital", "cantidad": 2},
+            {"nombre": "Tensiómetro digital homologado", "cantidad": 1}
+          ]
+        },
+        {
+          "nombre": "Cintas",
+          "esGrupo": true,
+          "items": [
+            {"nombre": "Cinta adhesiva hipoalergénica ó traspore ó papel x 25mm.", "cantidad": 5},
+            {"nombre": "Cinta adhesiva hipoalergénica ó traspore ó papel x 50mm.", "cantidad": 5}
+          ]
+        },
+        {
+          "nombre": "Planillaje",
+          "esGrupo": true,
+          "items": [
+
+            {"nombre": "Planillas y tablita", "cantidad": "15 o mas"},
+            {"nombre": "Lapiceras", "cantidad": 2},
+            {"nombre": "Código QR", "cantidad": 1}
+          ]
+        },
+        {
+          "nombre": "Residuos",
+          "esGrupo": true,
+          "items": [
+
+            {"nombre": "Bolsa de residuo patogénico", "cantidad": 2},
+            {"nombre": "Bolsas de arranque p/ residuos x unidad (10x15cm.)", "cantidad": 50},
+            {"nombre": "Bolsa de residuos (negras)", "cantidad": 6}
+          ]
+        },
         {"nombre": "Agua destilada x 500cc. (Báxter/sachet)", "cantidad": 2},
         {"nombre": "Alcohol en gel x 200cc., o superior", "cantidad": 1},
         {"nombre": "Alcohol etílico (al 70%) x 500cc. o 1 litro", "cantidad": 1},
@@ -93,15 +158,7 @@
         {"nombre": "Baja lenguas", "cantidad": 25},
         {"nombre": "Barbijos quirúrgicos descartables x unidad", "cantidad": 25},
         {"nombre": "Birome/lapicera", "cantidad": 4},
-        {"nombre": "Bolsa de residuo patogénico", "cantidad": 2},
-        {"nombre": "Bolsas de arranque p/ residuos x unidad (10x15cm.)", "cantidad": 50},
-        {"nombre": "Bolsa de residuos (negras)", "cantidad": 6},
         {"nombre": "Botella de agua de 500cc.", "cantidad": 4},
-        {"nombre": "Caja de guantes de látex o nitrilo talle L", "cantidad": 1},
-        {"nombre": "Caja de guantes de látex o nitrilo talle M", "cantidad": 1},
-        {"nombre": "Caja de guantes de látex o nitrilo talle S", "cantidad": 1},
-        {"nombre": "Cinta adhesiva hipoalergénica ó traspore ó papel x 25mm.", "cantidad": 5},
-        {"nombre": "Cinta adhesiva hipoalergénica ó traspore ó papel x 50mm.", "cantidad": 5},
         {"nombre": "Cinta de papel de 25mm x unidad", "cantidad": 2},
         {"nombre": "Vaselina sólida de 60grs.", "cantidad": 1},
         {"nombre": "Descartador de agujas pequeño", "cantidad": 1},
@@ -118,10 +175,6 @@
         {"nombre": "Sobre de azúcar", "cantidad": 50},
         {"nombre": "Solución Fisiológica/suero (Sachet/Báxter) de 500 cm3", "cantidad": 2},
         {"nombre": "Tabla para soporte de planillas de atención", "cantidad": 2},
-        {"nombre": "Tensiómetro aneroide adulto con estetoscopio", "cantidad": 1},
-        {"nombre": "Tensiómetro aneroide pediátrico con estetoscopio", "cantidad": 1},
-        {"nombre": "Tensiómetro digital", "cantidad": 2},
-        {"nombre": "Tensiómetro digital homologado", "cantidad": 1},
         {"nombre": "Tijera de trauma chica o mediana", "cantidad": 2},
         {"nombre": "Vaso descartable de 200cc.", "cantidad": 25},
         {"nombre": "Venda tipo cambric x 10cm.", "cantidad": 10},
@@ -133,7 +186,10 @@
         {"nombre": "Canasto plástico apilable de 20x40x60cm. c/tapa", "cantidad": 1},
         {"nombre": "Manta isotérmica aluminizada", "cantidad": 2}
       ]
-    },{
+    },
+    
+    
+    {
       "id": "mn03",
       "nombre": "PMA",
       "descripcion": "Puesto Médico Avanzado.",
@@ -173,5 +229,8 @@
       ]
     }
   ]
+
+  
+  
 }
   
