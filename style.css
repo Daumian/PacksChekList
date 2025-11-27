@@ -1,0 +1,166 @@
+/*
+ * =======================================================
+ * ARCHIVO: style.css
+ * DESCRIPCIÓN: Estilos unificados para las páginas de
+ * selección de pack y revisión de checklist.
+ * =======================================================
+ */
+
+/* -------------------------------------------------------
+ * ESTILOS BASE Y COMUNES
+ * ------------------------------------------------------- */
+body {
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 0;
+    line-height: 1.6;
+    color: #333; /* Color de texto principal */
+}
+
+h1 {
+    color: #cc0000; /* Rojo Cruz Roja */
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 1.8em;
+}
+
+h2 {
+    color: #333;
+    text-align: center;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+/* -------------------------------------------------------
+ * ESTILOS PARA LA PÁGINA DE SELECCIÓN DE PACK (index.html)
+ * ------------------------------------------------------- */
+#packs-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.pack-card {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    border: 4px solid #cc0000; /* Borde rojo */
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+}
+
+.pack-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+/* -------------------------------------------------------
+ * ESTILOS PARA LA PÁGINA DE REVISIÓN DE CHECKLIST (checklist-review.html)
+ * ------------------------------------------------------- */
+
+#pack-title {
+    font-size: 1.5em; /* Ajuste para que sea menos dominante que el nombre del pack */
+    margin-bottom: 5px;
+}
+
+#checklist-list {
+    list-style: none;
+    padding: 0;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.checklist-item {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    /* Animación de transición */
+    opacity: 1;
+    transform: translateX(0);
+    /* Aumento del tiempo de transición para un efecto más suave, aunque rápido */
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.item-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.item-name {
+    font-weight: bold;
+    color: #333;
+    font-size: 1.1em;
+}
+
+.item-quantity {
+    font-size: 0.9em;
+    color: #777;
+    margin-top: 3px;
+}
+
+/* Clase para el efecto de verificación y desaparición */
+.verificado {
+    background-color: #4CAF50 !important; /* Verde */
+    color: white;
+    border-color: #4CAF50;
+    opacity: 0; /* Para que desaparezca */
+    transform: translateX(-100%); /* Para el efecto de "deslizar a la izquierda" */
+}
+
+.verificado .item-name, 
+.verificado .item-quantity {
+    color: white; /* Asegura que el texto sea blanco */
+}
+
+/* Estilo para la notificación de Pack Completo */
+#complete-message {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #cc0000;
+    color: white;
+    padding: 30px 50px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    font-size: 2em;
+    font-weight: bold;
+    display: none; /* Inicialmente oculto */
+    z-index: 1000;
+    text-align: center;
+    animation: fadeIn 0.5s ease-out; /* Animación de entrada */
+}
+
+/* Keyframes para la animación de aparición */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translate(-50%, -50%) scale(0.8);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, -50%) scale(1);
+    }
+}
