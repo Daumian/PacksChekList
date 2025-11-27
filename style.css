@@ -1,82 +1,33 @@
-/*
- * =======================================================
- * ARCHIVO: style.css
- * DESCRIPCIÓN: Estilos unificados para las páginas de
- * selección de pack y revisión de checklist.
- * =======================================================
- */
-
 /* -------------------------------------------------------
- * ESTILOS BASE Y COMUNES
+ * ESTILOS GENERALES Y BASE (MOVIDOS DE CHECKLIST.HTML)
  * ------------------------------------------------------- */
-body {
-    font-family: sans-serif;
-    background-color: #f4f4f4;
+
+body { 
+    font-family: Arial, sans-serif;; 
+    background-color: #f7f7f7; 
+    padding: 20px; 
+    margin: 0; 
+    padding: 0;
+}
+
+h1 { 
+    color: #cc0000; 
+    text-align: center; 
+    font-size: 36px; 
+    margin-bottom: 5px; 
     padding: 20px;
     margin: 0;
-    line-height: 1.6;
-    color: #333; /* Color de texto principal */
 }
 
-h1 {
-    color: #cc0000; /* Rojo Cruz Roja */
-    text-align: center;
-    margin-bottom: 30px;
-    font-size: 1.8em;
+
+
+h2 { 
+    margin-bottom: 20px; 
+    color: #333; 
+    text-align: center; 
+    font-size: 2em; 
 }
 
-h2 {
-    color: #333;
-    text-align: center;
-    font-size: 2em;
-    margin-bottom: 20px;
-}
-
-/* -------------------------------------------------------
- * ESTILOS PARA LA PÁGINA DE SELECCIÓN DE PACK (index.html)
- * ------------------------------------------------------- */
-#packs-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-    max-width: 900px;
-    margin: 0 auto;
-}
-
-.pack-card {
-    width: 150px;
-    height: 150px;
-    background-color: white;
-    border: 4px solid #cc0000; /* Borde rojo */
-    border-radius: 8px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1.1em;
-    font-weight: bold;
-    text-transform: uppercase;
-    cursor: pointer;
-    transition: transform 0.2s, box-shadow 0.2s;
-    padding: 10px;
-    box-sizing: border-box;
-    text-align: center;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Sombra sutil */
-}
-
-.pack-card:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
-}
-
-/* -------------------------------------------------------
- * ESTILOS PARA LA PÁGINA DE REVISIÓN DE CHECKLIST (checklist-review.html)
- * ------------------------------------------------------- */
-
-#pack-title {
-    font-size: 1.5em; /* Ajuste para que sea menos dominante que el nombre del pack */
-    margin-bottom: 5px;
-}
 
 #checklist-list {
     list-style: none;
@@ -85,82 +36,252 @@ h2 {
     margin: 0 auto;
 }
 
+
+
+/* --- Estilos para ítems simples (Ajuste de layout) --- */
+
 .checklist-item {
     background-color: white;
     border: 1px solid #ddd;
-    border-radius: 8px;
+    border-radius: 8px; 
     margin-bottom: 10px;
     padding: 15px;
     display: flex;
-    align-items: center;
-    justify-content: space-between;
+    align-items: center; 
+    justify-content: space-between; 
     cursor: pointer;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    
     /* Animación de transición */
     opacity: 1;
     transform: translateX(0);
-    /* Aumento del tiempo de transición para un efecto más suave, aunque rápido */
-    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    transition: transform 0.1s ease-in-out, background-color 0.1s ease-in-out, opacity 0.1s ease-in-out; 
 }
 
 .item-info {
     display: flex;
     flex-direction: column;
+    flex-grow: 1; /* Asegura que el nombre empuje la cantidad a la derecha */
 }
 
 .item-name {
     font-weight: bold;
     color: #333;
-    font-size: 1.1em;
 }
 
 .item-quantity {
     font-size: 0.9em;
     color: #777;
-    margin-top: 3px;
+    flex-shrink: 0;
 }
 
-/* Clase para el efecto de verificación y desaparición */
+
+/* -------------------------------------------------------
+ * ESTILOS DE CHECKBOX Y GRUPOS 
+ * ------------------------------------------------------- */
+
+/* --- Estilos del Cuadradito de Verificación (.checkbox) --- */
+
+.checkbox {
+    width: 20px;
+    height: 20px;
+    border: 2px solid #555; 
+    border-radius: 4px; 
+    margin-right: 15px; 
+    flex-shrink: 0; 
+    background-color: #fff;
+    position: relative; 
+    cursor: pointer;
+    z-index: 10;
+}
+
+/* --- Estilos de Verificación Final (Checkbox marcado) --- */
+
+
+
+
+/* Clase general para elementos completados (ítems o grupos) */
 .verificado {
-    background-color: #4CAF50 !important; /* Verde */
+    background-color: #4CAF50 !important; 
     color: white;
     border-color: #4CAF50;
-    opacity: 0; /* Para que desaparezca */
-    transform: translateX(-100%); /* Para el efecto de "deslizar a la izquierda" */
+    opacity: 0; 
+    transform: translateX(-100%); 
 }
 
-.verificado .item-name, 
-.verificado .item-quantity {
-    color: white; /* Asegura que el texto sea blanco */
+/* Estilo para el cuadradito marcado */
+.verificado .checkbox {
+    border-color: #4CAF50 !important; 
+    background-color: #4CAF50 !important;
 }
 
-/* Estilo para la notificación de Pack Completo */
-#complete-message {
-    position: fixed;
+/* El checkmark (✓) dentro del cuadrado */
+.verificado .checkbox::after {
+    content: '✓'; 
+    color: white;
+    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #cc0000;
-    color: white;
-    padding: 30px 50px;
-    border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-    font-size: 2em;
+    font-size: 16px;
     font-weight: bold;
-    display: none; /* Inicialmente oculto */
-    z-index: 1000;
-    text-align: center;
-    animation: fadeIn 0.5s ease-out; /* Animación de entrada */
 }
 
-/* Keyframes para la animación de aparición */
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-        transform: translate(-50%, -50%) scale(0.8);
-    }
-    to {
-        opacity: 1;
-        transform: translate(-50%, -50%) scale(1);
-    }
+
+/* --- Estilos para Grupos (checklist-group) --- */
+
+.checklist-group {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    cursor: pointer; 
+    
+    /* Animación de transición (más larga que el ítem simple) */
+    opacity: 1;
+    transform: translateX(0);
+    transition: transform 0.3s ease-in-out, background-color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.group-header {
+    display: flex;
+    align-items: center;
+    padding: 15px; 
+    background-color: #f0f0f0; 
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    font-weight: bold;
+}
+
+.group-name {
+    flex-grow: 1; 
+    font-size: 1.1em;
+    color: #333;
+}
+
+.subitems-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border-top: 1px solid #eee; 
+}
+
+.subitem-entry {
+    font-size: 0.9em;
+    color: #666;
+    padding: 5px 15px 5px 50px; /* Sangría */
+    display: flex;
+    justify-content: space-between;
+    transition: background-color 0.2s, color 0.2s; /* Transición para el subitem */
+}
+
+/* Estilo para un sub-ítem completado */
+.subitem-verificado {
+    background-color: #e0ffe0; 
+    color: #008000; 
+    font-style: italic;
+    text-decoration: line-through;
+    cursor: default;
+}
+
+/* Estilos de desaparición para Grupos Completados */
+.checklist-group.verificado {
+    background-color: #4CAF50 !important; 
+    color: white;
+    border-color: #4CAF50;
+    opacity: 0; 
+    transform: translateX(-100%); 
+}
+
+.checklist-group.verificado .group-header,
+.checklist-group.verificado .group-name,
+.checklist-group.verificado .subitem-entry {
+    color: white !important; 
+    background-color: transparent !important;
+}
+
+.checklist-group.verificado .subitems-list {
+    display: none;
+}
+
+
+/* -------------------------------------------------------
+ * ESTILOS PARA NOTIFICACIÓN DE PACK COMPLETO (PANTALLA COMPLETA)
+ * ------------------------------------------------------- */
+
+/* Contenedor Externo: Ocupa toda la pantalla y da el fondo oscuro */
+#complete-message {
+    position: fixed;
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    
+    /* Fondo semi-transparente para oscurecer la pantalla */
+    background-color: rgba(0, 0, 0, 0.8); 
+    
+    /* Centrar el contenido de forma robusta */
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    
+    display: none; /* Inicialmente oculto (el JS lo mostrará) */
+    z-index: 1000;
+}
+
+/* Contenedor Interno: Aplica el estilo del cuadro rojo */
+#complete-message-content {
+    background-color: #cc0000; /* Rojo Cruz Roja */
+    color: white;
+    padding: 50px 70px;
+    border-radius: 10px;
+    box-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
+    font-size: 3em; 
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+
+#packs-container {
+    display: flex; /* Opcional: para centrar si solo tienes uno */
+    justify-content: flex-start; /* Ajusta a tu preferencia (start, center) */
+    align-items: center;
+    padding-left: 20px; /* Asegura que el "Morral Normal" no esté pegado al borde */
+}
+
+
+/* 🚀 Estilo del CUADRITO ROJO para "Morral Normal" */
+.pack-card {
+    /* Muestra como un bloque para poder aplicar padding y border */
+    display: inline-block; 
+    
+    /* 🔴 Borde Rojo */
+    border: 3px solid red; 
+    
+    /* Espacio interno para que el texto no toque el borde */
+    padding: 10px 25px;    
+    
+    /* Espacio externo si hay más elementos */
+    margin-right: 20px;          
+    
+    /* Estilo del Texto (para que se vea "grueso" como en la imagen) */
+    color: black;
+    /* Usamos una fuente de sistema que se parece a la de tu imagen */
+    font-family: 'Arial Black', Impact, sans-serif; 
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase; 
+    
+    /* Hace que parezca interactivo */
+    cursor: pointer; 
+    user-select: none; /* Evita selección accidental al hacer clic */
+}
+
+/* Opcional: Efecto visual al pasar el ratón */
+.pack-card:hover {
+    background-color: #ffebeb; /* Rojo muy claro al pasar el cursor */
+    transition: background-color 0.2s;
 }

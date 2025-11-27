@@ -49,6 +49,25 @@ function checkGroupComplete(itemGroup) {
 }
 
 
+
+// --- Pegada a huevo ---
+
+function mostrarPackCompleto() {
+    const message = document.getElementById('complete-message');
+    message.style.display = 'block'; 
+
+    setTimeout(() => {
+        // Al finalizar, borramos el estado de la URL antes de redirigir
+        window.history.replaceState({}, '', `index.html`); 
+        window.location.href = 'index.html';
+    }, 2000); 
+}
+
+
+
+
+
+
 // --- Lógica de Verificación PRINCIPAL ---
 
 function verificarItem(event) {
@@ -80,27 +99,24 @@ function verificarItem(event) {
             verifiedIndices.add(itemIndex); // Marcar el índice principal como verificado
         }
         
+        // 🔑 CORRECCIÓN: Decrementar inmediatamente para que el contador sea correcto en el setTimeout.
+        itemsPendientes--; 
 
-        itemsPendientes--;
-
-// Iniciar la eliminación del DOM
+        // Iniciar la eliminación del DOM
         updateUrlState(); 
         itemElement.classList.add('verificado');
 
         setTimeout(() => {
             itemElement.remove(); 
             
-            // Ahora itemsPendientes ya refleja el valor correcto.
+            // Ahora itemsPendientes ya refleja el valor correcto (0 si es el último)
             if (itemsPendientes <= 0) { 
                 mostrarPackCompleto();
             }
         }, 200);
         
-        // Si se clickea el checkbox padre, la ejecución termina aquí.
         return; 
     }
-
-    
 
     // B) Clic en el SUB-ÍTEM dentro de un grupo
     if (packItem.esGrupo && target.classList.contains('subitem-entry')) {
@@ -122,12 +138,15 @@ function verificarItem(event) {
             verifiedIndices.add(itemIndex);
             updateUrlState();
             
+            // 🔑 CORRECCIÓN: Decrementar inmediatamente para que el contador sea correcto en el setTimeout.
+            itemsPendientes--; 
+
             // Aplicar la transición al elemento padre <li>
             itemElement.classList.add('verificado'); 
             
             setTimeout(() => {
                 itemElement.remove();
-                itemsPendientes--;
+                
                 if (itemsPendientes <= 0) {
                     mostrarPackCompleto();
                 }
@@ -135,8 +154,6 @@ function verificarItem(event) {
         }
     }
 }
-
-
 // --- Inicialización ---
 
 function initChecklist(packId, verifiedIndicesSet) {

@@ -4,73 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CRUZ ROJA CHECKLIST - Revisión</title>
-    <style>
-        body { font-family: sans-serif; background-color: #f4f4f4; padding: 20px; margin: 0; }
-        h1 { color: #cc0000; text-align: center; font-size: 1.5em; margin-bottom: 5px; }
-        h2 { margin-bottom: 20px; color: #333; text-align: center; font-size: 2em; }
-
-        #checklist-list {
-            list-style: none;
-            padding: 0;
-            max-width: 600px;
-            margin: 0 auto;
-        }
-        .checklist-item {
-            background-color: white;
-            border: 1px solid #ddd;
-            border-radius: 8px; /* Ajuste sutil */
-            margin-bottom: 10px;
-            padding: 15px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between; /* Para separar nombre y cantidad */
-            cursor: pointer;
-            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-            /* Preparación para la animación de desaparición */
-            opacity: 1;
-            transform: translateX(0);
-            transition: transform 0.1s ease-in-out, background-color 0.1s ease-in-out, opacity 0.1s ease-in-out; 
-        }
-        .item-info {
-            display: flex;
-            flex-direction: column;
-        }
-        .item-name {
-            font-weight: bold;
-            color: #333;
-        }
-        .item-quantity {
-            font-size: 0.9em;
-            color: #777;
-        }
-
-        /* Clase para el efecto de verificación */
-        .verificado {
-            background-color: #4CAF50 !important; /* Verde */
-            color: white;
-            border-color: #4CAF50;
-            opacity: 0; /* Para que desaparezca */
-            transform: translateX(-100%); /* Para el efecto de "deslizar a la izquierda" */
-        }
-
-        /* Estilo para la notificación de Pack Completo */
-        #complete-message {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: #cc0000;
-            color: white;
-            padding: 30px 50px;
-            border-radius: 10px;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-            font-size: 2em;
-            font-weight: bold;
-            display: none; /* Inicialmente oculto */
-            z-index: 1000;
-            text-align: center;
-        }
-    </style>
+    <link rel="stylesheet" href="style.css"> 
 </head>
 <body>
 
@@ -79,9 +13,13 @@
 
     <ul id="checklist-list"></ul>
 
-    <div id="complete-message">¡PACK COMPLETO! 🎉</div>
+    <div id="complete-message">
+        <div id="complete-message-content">
+            ¡PACK COMPLETO! 🎉
+        </div>
+    </div>
 
-    <script src="checklist-logic.js"></script>
+    <script src="checklist-logic.js" defer></script>
 
 </body>
 </html>
