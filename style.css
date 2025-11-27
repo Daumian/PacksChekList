@@ -244,44 +244,59 @@ h2 {
 
 
 
-
+/* -------------------------------------------------------
+ * ESTILOS PARA LOS PACKS (CUADRITOS ROJOS)
+ * ------------------------------------------------------- */
 #packs-container {
-    display: flex; /* Opcional: para centrar si solo tienes uno */
-    justify-content: flex-start; /* Ajusta a tu preferencia (start, center) */
-    align-items: center;
-    padding-left: 20px; /* Asegura que el "Morral Normal" no esté pegado al borde */
+    display: flex; 
+    flex-wrap: wrap; /* 👈 **CLAVE**: Permite que los ítems salten a la siguiente línea */
+    justify-content: center; /* Centra los packs horizontalmente */
+    align-items: flex-start;
+    
+    /* Quitamos el padding-left que teníamos, ahora centramos el contenido */
+    padding: 20px 10px; 
+    max-width: 900px; /* Limita el ancho máximo en pantallas grandes */
+    margin: 0 auto; /* Centra el contenedor en la página */
 }
 
 
-/* 🚀 Estilo del CUADRITO ROJO para "Morral Normal" */
+/* 🚀 Estilo del CUADRITO ROJO para "Morral Normal" (Ajustado para 2 por fila) */
 .pack-card {
     /* Muestra como un bloque para poder aplicar padding y border */
-    display: inline-block; 
+    display: flex; /* Usamos flex para centrar el texto verticalmente si es necesario */
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* 👈 **NUEVO**: Centra el texto en 3 líneas si se necesita */
     
     /* 🔴 Borde Rojo */
     border: 3px solid red; 
     
-    /* Espacio interno para que el texto no toque el borde */
-    padding: 10px 25px;    
+    /* Espacio interno para el texto */
+    padding: 10px 15px;    
     
-    /* Espacio externo si hay más elementos */
-    margin-right: 20px;          
+    /* 🌐 Responsivo: Ocupa casi el 50% menos el margen */
+    flex: 1 1 45%; /* CLAVE: El ítem puede crecer (1), encoger (1) y tiene una base de 45% */
+    min-width: 150px; /* Asegura que no se haga muy pequeño */
+
+    /* Espacio entre los packs */
+    margin: 10px;          
     
-    /* Estilo del Texto (para que se vea "grueso" como en la imagen) */
+    /* Estilo del Texto */
     color: black;
-    /* Usamos una fuente de sistema que se parece a la de tu imagen */
     font-family: 'Arial Black', Impact, sans-serif; 
-    font-size: 20px;
+    font-size: 18px; /* Ajustamos un poco el tamaño para mejor ajuste */
     font-weight: bold;
     text-transform: uppercase; 
     
-    /* Hace que parezca interactivo */
     cursor: pointer; 
-    user-select: none; /* Evita selección accidental al hacer clic */
+    user-select: none; 
+    
+    /* Asegura una altura mínima si el texto es muy corto (opcional) */
+    min-height: 50px; 
 }
 
 /* Opcional: Efecto visual al pasar el ratón */
 .pack-card:hover {
-    background-color: #ffebeb; /* Rojo muy claro al pasar el cursor */
+    background-color: #ffebeb; 
     transition: background-color 0.2s;
 }
