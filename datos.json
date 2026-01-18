@@ -1,0 +1,2266 @@
+[
+  {
+    "nombre": "Albert Einstein",
+    "nacimiento": 1879,
+    "eventos": [
+      { "año": 1879, "descripcion": "Nacimiento en Ulm, Alemania." },
+      { "año": 1905, "descripcion": "Publica la Teoría de la Relatividad Especial (E=mc²)." },
+      { "año": 1915, "descripcion": "Presenta la Teoría de la Relatividad General, revolucionando la física." },
+      { "año": 1921, "descripcion": "Recibe el Premio Nobel de Física por su explicación del efecto fotoeléctrico." },
+      { "año": 1933, "descripcion": "Huye de la Alemania nazi hacia EE. UU., poco antes de que Freud huyera a Londres." },
+      { "año": 1955, "descripcion": "Fallecimiento en Princeton, Nueva Jersey." }    
+    ]
+  },
+  {
+  "nombre": "Carl Jung",
+  "nacimiento": 1875,
+  "eventos": [
+    { "año": 1875, "descripcion": "Nacimiento en Kesswil, Suiza." },
+    { "año": 1907, "descripcion": "Conoce a Freud en Viena; hablan durante 13 horas seguidas." },
+    { "año": 1913, "descripcion": "Ruptura definitiva con Freud por diferencias teóricas sobre la libido." },
+    { "año": 1921, "descripcion": "Publica 'Tipos psicológicos', introduciendo los términos Introvertido y Extrovertido." },
+    { "año": 1961, "descripcion": "Fallecimiento en Suiza, habiendo fundado la Psicología Analítica." }
+  ]
+  },
+  {
+  "nombre": "Marie Curie",
+  "nacimiento": 1867,
+  "eventos": [
+    { "año": 1867, "descripcion": "Nacimiento en Varsovia, Polonia." },
+    { "año": 1891, "descripcion": "Se traslada a París y se matricula en la Sorbona tras años de estudio clandestino." },
+    { "año": 1898, "descripcion": "Junto a Pierre Curie, anuncia el descubrimiento de dos nuevos elementos: el Polonio y el Radio." },
+    { "año": 1903, "descripcion": "Gana el Premio Nobel de Física, convirtiéndose en la primera mujer en recibir este galardón." },
+    { "año": 1906, "descripcion": "Se convierte en la primera mujer profesora en la Universidad de la Sorbona tras la muerte de Pierre." },
+    { "año": 1911, "descripcion": "Gana el Premio Nobel de Química, siendo la única persona en ganar dos Nobeles en distintas ciencias." },
+    { "año": 1914, "descripcion": "Desarrolla las 'Petites Curies', unidades móviles de rayos X para ayudar a los soldados heridos en la guerra." },
+    { "año": 1934, "descripcion": "Fallece en Francia debido a la anemia aplásica causada por su larga exposición a la radiación." }
+  ]
+  },
+  {
+  "nombre": "Internet",
+  "nacimiento": 1969,
+  "eventos": [
+    { "año": 1969, "descripcion": "ARPANET: Se envía el primer mensaje entre computadoras." },
+    { "año": 1983, "descripcion": "Adopción oficial del protocolo TCP/IP, considerado el 'nacimiento' técnico de Internet." },
+    { "año": 1989, "descripcion": "Propoonen la World Wide Web (WWW)." },
+    { "año": 1991, "descripcion": "Se publica la primera página web de la historia y se abre Internet al público comercial." },
+    { "año": 1998, "descripcion": "Fundación de Google." },
+    { "año": 2004, "descripcion": "Nace la Web 2.0 con el lanzamiento de Facebook." },
+    { "año": 2007, "descripcion": "Lanzamiento del iPhone: Internet se vuelve móvil." },
+    { "año": 2023, "descripcion": "Explosión de la IA generativa (ChatGPT)." }
+  ]
+  },
+  {
+  "nombre": "Fidget Spinners",
+  "nacimiento": 1993,
+  "eventos": [
+    { "año": 1993, "descripcion": "Catherine Hettinger crea un prototipo inicial." },
+    { "año": 2005, "descripcion": "Expira la patente original." },
+    { "año": 2016, "descripcion": "Comienzan a aparecer en pequeñas tiendas de juguetes." },
+    { "año": 2017, "descripcion": "Explosión global: se convierten en el juguete más vendido del mundo." },
+    { "año": 2017, "descripcion": "Prohibición masiva: miles de escuelas en EE. UU. y Europa prohíben su uso." },
+    { "año": 2018, "descripcion": "Caída estrepitosa: la moda pasa y las tiendas los liquindan." }
+  ]
+  },
+  {
+    "nombre": "Alan Turing",
+    "nacimiento": 1912,
+    "eventos": [
+      { "año": 1912, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 1936, "descripcion": "Propone el concepto de la Máquina de Turing." },
+      { "año": 1954, "descripcion": "Fallecimiento en Wilmslow, Reino Unido." }
+    ]
+  },
+  {
+  "nombre": "Mahatma Gandhi",
+  "nacimiento": 1869,
+  "eventos": [
+    { "año": 1869, "descripcion": "Nacimiento en Porbandar, India británica." },
+    { "año": 1888, "descripcion": "Viaja a Londres para estudiar abogacía en el University College London." },
+    { "año": 1893, "descripcion": "Se traslada a Sudáfrica, donde comienza su activismo contra la discriminación racial." },
+    { "año": 1906, "descripcion": "Adopta por primera vez la metodología de protesta no violenta llamada 'Satyagraha'." },
+    { "año": 1915, "descripcion": "Regresa a la India y se une al Congreso Nacional Indio para luchar por la soberanía." },
+    { "año": 1930, "descripcion": "Lidera la Marcha de la Sal, una caminata de 390 km en protesta contra los impuestos británicos." },
+    { "año": 1942, "descripcion": "Lanza el movimiento 'Quit India' (Abandonen la India) exigiendo la retirada británica." },
+    { "año": 1947, "descripcion": "La India logra su independencia; Gandhi trabaja para frenar la violencia religiosa." },
+    { "año": 1948, "descripcion": "Asesinato en Nueva Delhi por un extremista hindú a los 78 años." }
+  ]
+  },
+  {
+  "nombre": "Sigmund Freud",
+  "nacimiento": 1856,
+  "eventos": [
+    { "año": 1856, "descripcion": "Nacimiento en Freiberg, Imperio austríaco." },
+    { "año": 1881, "descripcion": "Se gradúa como médico en la Universidad de Viena." },
+    { "año": 1884, "descripcion": "Publica 'Über Coca' (Sobre la cocaina)." },
+    { "año": 1885, "descripcion": "Estudia en París con Charcot, interesándose en la histeria y el hipnotismo." },
+    { "año": 1899, "descripcion": "Publica 'La interpretación de los sueños'." },
+    { "año": 1902, "descripcion": "Fundación de la Sociedad Psicológica de los Miércoles en Viena." },
+    { "año": 1923, "descripcion": "Publica 'El yo y el ello'." },
+    { "año": 1938, "descripcion": "Huye a Londres tras la ocupación nazi en Austria." },
+    { "año": 1939, "descripcion": "Fallecimiento en Londres a los 83 años." }
+  ]
+  },
+  {
+  "nombre": "Isaac Newton",
+  "nacimiento": 1642,
+  "eventos": [
+    { "año": 1642, "descripcion": "Nacimiento en Woolsthorpe, Inglaterra (según el calendario juliano)." },
+    { "año": 1661, "descripcion": "Ingresa al Trinity College de Cambridge, donde comienza a cuestionar la física aristotélica." },
+    { "año": 1665, "descripcion": "La Gran Peste cierra Cambridge; regresa a su casa y desarrolla el cálculo y la teoría de los colores." },
+    { "año": 1666, "descripcion": "Su 'Annus Mirabilis': se produce el famoso incidente de la manzana y formula la Ley de Gravitación." },
+    { "año": 1672, "descripcion": "Presenta su telescopio reflector a la Royal Society, revolucionando la astronomía óptica." },
+    { "año": 1687, "descripcion": "Publica los 'Principia Mathematica', estableciendo las tres leyes del movimiento y la gravedad universal." },
+    { "año": 1696, "descripcion": "Es nombrado Guardián de la Real Casa de Moneda, persiguiendo falsificadores en Londres." },
+    { "año": 1703, "descripcion": "Es elegido Presidente de la Royal Society, cargo que ocuparía hasta su muerte." },
+    { "año": 1705, "descripcion": "La Reina Ana lo nombra caballero (Sir Isaac Newton), el primer científico en recibir este honor." },
+    { "año": 1727, "descripcion": "Fallecimiento en Londres a los 84 años." }
+  ]
+  },
+  {
+  "nombre": "Galileo Galilei",
+  "nacimiento": 1564,
+  "eventos": [
+    { "año": 1564, "descripcion": "Nacimiento en Pisa, Italia." },
+    { "año": 1609, "descripcion": "Construye su propio telescopio y observa por primera vez los cráteres de la Luna." },
+    { "año": 1610, "descripcion": "Descubre las lunas de Júpiter, demostrando que no todo gira alrededor de la Tierra." },
+    { "año": 1632, "descripcion": "Publica el 'Diálogo sobre los dos máximos sistemas del mundo' defendiendo el heliocentrismo." },
+    { "año": 1633, "descripcion": "Es juzgado por la Inquisición y obligado a retractarse de sus ideas." },
+    { "año": 1642, "descripcion": "Fallecimiento bajo arresto domiciliario en Arcetri." }
+  ]
+  },
+  {
+  "nombre": "Leonardo da Vinci",
+  "nacimiento": 1452,
+  "eventos": [
+    { "año": 1452, "descripcion": "Nacimiento en Vinci, Italia." },
+    { "año": 1482, "descripcion": "Se traslada a Milán para trabajar como ingeniero y artista para Ludovico Sforza." },
+    { "año": 1495, "descripcion": "Comienza a pintar 'La Última Cena' en el convento de Santa Maria delle Grazie." },
+    { "año": 1503, "descripcion": "Inicia el retrato de la 'Mona Lisa', el cual retocaría hasta sus últimos años." },
+    { "año": 1516, "descripcion": "Se traslada a Francia bajo la invitación del rey Francisco I." },
+    { "año": 1519, "descripcion": "Fallecimiento en el Castillo de Clos-Lucé, Francia." }
+  ]
+  },
+  {
+  "nombre": "Alejandro Magno",
+  "nacimiento": -356,
+  "eventos": [
+    { "año": -356, "descripcion": "Nacimiento en Pella, Macedonia." },
+    { "año": -336, "descripcion": "Se convierte en Rey de Macedonia tras el asesinato de su padre, Filipo II." },
+    { "año": -334, "descripcion": "Cruza el Helesponto e inicia la invasión del Imperio Persa." },
+    { "año": -331, "descripcion": "Funda la ciudad de Alejandría en Egipto y derrota a Darío III en Gaugamela." },
+    { "año": -326, "descripcion": "Cruza el río Indo y derrota al rey Poros en la Batalla del Hidaspes." },
+    { "año": -323, "descripcion": "Fallecimiento en Babilonia a los 32 años sin haber sido nunca derrotado." }
+  ]
+  },
+  {
+  "nombre": "Sócrates",
+  "nacimiento": -470,
+  "eventos": [
+    { "año": -470, "descripcion": "Nacimiento en Atenas, Grecia." },
+    { "año": -431, "descripcion": "Participa como soldado en la Guerra del Peloponeso contra Esparta." },
+    { "año": -399, "descripcion": "Es juzgado por 'corromper a la juventud' y condenado a morir bebiendo cicuta." }
+  ]
+  },
+  {
+  "nombre": "Séneca",
+  "nacimiento": -4,
+  "eventos": [
+    { "año": -4, "descripcion": "Nacimiento en Córdoba, Hispania (actual España)." },
+    { "año": 49, "descripcion": "Es llamado a Roma para convertirse en el tutor del joven Nerón." },
+    { "año": 65, "descripcion": "Es obligado a suicidarse por orden de Nerón tras ser acusado de conspiración." }
+  ]
+  },
+  {
+  "nombre": "Marco Antonio",
+  "nacimiento": -83,
+  "eventos": [
+    { "año": -83, "descripcion": "Nacimiento en Roma." },
+    { "año": -44, "descripcion": "Pronuncia su famoso discurso fúnebre tras el asesinato de Julio César." },
+    { "año": -41, "descripcion": "Inicia su relación política y amorosa con Cleopatra en Egipto." },
+    { "año": -31, "descripcion": "Es derrotado por Octavio (Augusto) en la Batalla de Actium." },
+    { "año": -30, "descripcion": "Se suicida en Alejandría tras la entrada de las tropas enemigas." }
+  ]
+  },
+  {
+  "nombre": "Mirtha Legrand",
+  "nacimiento": 1927,
+  "eventos": [
+    { "año": 1927, "descripcion": "Nacimiento en Villa Cañás, Santa Fe." },
+    { "año": 1940, "descripcion": "Debuta en el cine con 'Hay que educar a Niní' junto a Niní Marshall." },
+    { "año": 1941, "descripcion": "Salto al estrellato con 'Los martes, orquídeas', icono de la comedia blanca." },
+    { "año": 1945, "descripcion": "Se casa con el director Daniel Tinayre, una de las uniones más influyentes del espectáculo." },
+    { "año": 1968, "descripcion": "Inicia 'Almorzando con las estrellas' (luego 'con Mirtha Legrand') por Canal 9." },
+    { "año": 1991, "descripcion": "Regresa a los almuerzos por Canal 9 tras años de censura y prohibiciones políticas." },
+    { "año": 2013, "descripcion": "Regresa a la ficción con la serie 'La Dueña' tras décadas dedicada a la conducción." },
+    { "año": 2018, "descripcion": "Celebra los 50 años ininterrumpidos de su programa, un récord mundial." },
+    { "año": 2024, "descripcion": "Continúa vigente como la presentadora activa con más trayectoria de la televisión global." }
+  ]
+  },
+  {
+    "nombre": "José de San Martín",
+    "nacimiento": 1778,
+    "eventos": [
+      { "año": 1778, "descripcion": "Nacimiento en Yapeyú." },
+      { "año": 1817, "descripcion": "Cruza los Andes para liberar Chile." },
+      { "año": 1850, "descripcion": "Fallecimiento en Boulogne-sur-Mer, Francia." }
+    ]
+  },
+  {
+  "nombre": "Julio César",
+  "nacimiento": -100,
+  "eventos": [
+    { "año": -100, "descripcion": "Nacimiento en Roma, en el seno de una familia patricia." },
+    { "año": -58, "descripcion": "Inicia las Guerras de las Galias, expandiendo el territorio romano hasta el Rin." },
+    { "año": -49, "descripcion": "Cruza el río Rubicón con sus legiones, iniciando la guerra civil con la frase 'Alea iacta est'." },
+    { "año": -48, "descripcion": "Derrota a Pompeyo en la Batalla de Farsalia y viaja a Egipto, donde conoce a Cleopatra." },
+    { "año": -44, "descripcion": "Es nombrado 'Dictador Perpetuo' y, poco después, asesinado en los Idus de Marzo." }
+  ]
+  },
+  {
+    "nombre": "Cleopatra",
+    "nacimiento": -69,
+    "eventos": [
+      { "año": -69, "descripcion": "Nacimiento en Egipto." },
+      { "año": -48, "descripcion": "Alianza política y amorosa con Julio César." },
+      { "año": -30, "descripcion": "Muerte tras la derrota frente a Roma." }
+    ]
+  },
+  {
+    "nombre": "Napoleón Bonaparte",
+    "nacimiento": 1769,
+    "eventos": [
+      { "año": 1769, "descripcion": "Nacimiento en Córcega." },
+      { "año": 1804, "descripcion": "Se proclama Emperador de Francia." },
+      { "año": 1821, "descripcion": "Fallecimiento en la isla de Santa Elena." }
+    ]
+  },
+  {
+    "nombre": "Winston Churchill",
+    "nacimiento": 1874,
+    "eventos": [
+      { "año": 1874, "descripcion": "Nacimiento en el Palacio de Blenheim." },
+      { "año": 1940, "descripcion": "Se convierte en Primer Ministro del Reino Unido." },
+      { "año": 1965, "descripcion": "Fallecimiento en Londres." }
+    ]
+  },
+  {
+    "nombre": "Franklin D. Roosevelt",
+    "nacimiento": 1882,
+    "eventos": [
+      { "año": 1882, "descripcion": "Nacimiento en Hyde Park, Nueva York." },
+      { "año": 1933, "descripcion": "Asume como 32.º presidente de los Estados Unidos." },
+      { "año": 1945, "descripcion": "Fallecimiento en Warm Springs, Georgia." }
+    ]
+  },
+  {
+    "nombre": "Adolf Hitler",
+    "nacimiento": 1889,
+    "eventos": [
+      { "año": 1889, "descripcion": "Nacimiento en Braunau am Inn, Austria." },
+      { "año": 1933, "descripcion": "Es nombrado Canciller de Alemania." },
+      { "año": 1945, "descripcion": "Suicidio en el búnker de Berlín." }
+    ]
+  },
+  {
+    "nombre": "Nelson Mandela",
+    "nacimiento": 1918,
+    "eventos": [
+      { "año": 1918, "descripcion": "Nacimiento en Mvezo, Sudáfrica." },
+      { "año": 1964, "descripcion": "Es condenado a cadena perpetua en el Juicio de Rivonia." },
+      { "año": 1994, "descripcion": "Se convierte en el primer presidente negro de Sudáfrica." }
+    ]
+  },
+  {
+    "nombre": "Charles Chaplin",
+    "nacimiento": 1889,
+    "eventos": [
+      { "año": 1889, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 1940, "descripcion": "Estreno de 'El Gran Dictador'." },
+      { "año": 1977, "descripcion": "Fallecimiento en Suiza." }
+    ]
+  },
+  {
+    "nombre": "Walt Disney",
+    "nacimiento": 1901,
+    "eventos": [
+      { "año": 1901, "descripcion": "Nacimiento en Chicago, Illinois." },
+      { "año": 1928, "descripcion": "Estreno de 'Steamboat Willie', debut de Mickey Mouse." },
+      { "año": 1955, "descripcion": "Inauguración de Disneyland en California." }
+    ]
+  },
+  {
+    "nombre": "Marilyn Monroe",
+    "nacimiento": 1926,
+    "eventos": [
+      { "año": 1926, "descripcion": "Nacimiento en Los Ángeles, California." },
+      { "año": 1953, "descripcion": "Protagoniza 'Los caballeros las prefieren rubias'." },
+      { "año": 1962, "descripcion": "Fallecimiento en Brentwood, Los Ángeles." }
+    ]
+  },
+  {
+    "nombre": "Asa Akira",
+    "nacimiento": 1986,
+    "eventos": [
+      { "año": 1986, "descripcion": "Nacimiento en Manhattan, Nueva York." },
+      { "año": 2013, "descripcion": "Recibe el premio a Artista Femenina del Año por AVN." },
+      { "año": 2014, "descripcion": "Publicación de su autobiografía 'Insatiable'." }
+    ]
+  },
+  {
+    "nombre": "Giorgia Meloni",
+    "nacimiento": 1977,
+    "eventos": [
+      { "año": 1977, "descripcion": "Nacimiento en Roma, Italia." },
+      { "año": 2014, "descripcion": "Se convierte en presidenta del partido Fratelli d'Italia." },
+      { "año": 2022, "descripcion": "Asume como Presidenta del Consejo de Ministros de Italia." }
+    ]
+  },
+  {
+    "nombre": "Adam Sandler",
+    "nacimiento": 1966,
+    "eventos": [
+      { "año": 1966, "descripcion": "Nacimiento en Nueva York, Estados Unidos." },
+      { "año": 1990, "descripcion": "Se une al elenco de Saturday Night Live." },
+      { "año": 1995, "descripcion": "Protagoniza la película 'Billy Madison'." }
+    ]
+  },
+  {
+    "nombre": "Chris Pratt",
+    "nacimiento": 1979,
+    "eventos": [
+      { "año": 1979, "descripcion": "Nacimiento en Virginia, Minnesota." },
+      { "año": 2009, "descripcion": "Comienza su papel de Andy Dwyer en 'Parks and Recreation'." },
+      { "año": 2014, "descripcion": "Protagoniza 'Guardianes de la Galaxia' como Star-Lord." }
+    ]
+  },
+
+  {
+    "nombre": "Elon Musk",
+    "nacimiento": 1971,
+    "eventos": [
+      { "año": 1971, "descripcion": "Nacimiento en Pretoria, Sudáfrica." },
+      { "año": 2002, "descripcion": "Funda SpaceX." },
+      { "año": 2008, "descripcion": "Asume como CEO de Tesla Motors." },
+      { "año": 2022, "descripcion": "Adquiere la red social Twitter (luego X)." }
+    ]
+  },
+  {
+    "nombre": "Taylor Swift",
+    "nacimiento": 1989,
+    "eventos": [
+      { "año": 1989, "descripcion": "Nacimiento en West Reading, Pensilvania." },
+      { "año": 2006, "descripcion": "Lanza su álbum debut homónimo." },
+      { "año": 2023, "descripcion": "Inicia 'The Eras Tour', la gira más taquillera de la historia." },
+      { "año": 2023, "descripcion": "Es nombrada Persona del Año por la revista Time." }
+    ]
+  },
+  {
+    "nombre": "Cristiano Ronaldo",
+    "nacimiento": 1985,
+    "eventos": [
+      { "año": 1985, "descripcion": "Nacimiento en Funchal, Madeira, Portugal." },
+      { "año": 2008, "descripcion": "Gana su primer Balón de Oro y la Champions League con Manchester United." },
+      { "año": 2016, "descripcion": "Gana la Eurocopa con la selección de Portugal." },
+      { "año": 2023, "descripcion": "Se une al club Al-Nassr de Arabia Saudita." }
+    ]
+  },
+  {
+    "nombre": "Lionel Messi",
+    "nacimiento": 1987,
+    "eventos": [
+      { "año": 1987, "descripcion": "Nacimiento en Rosario, Argentina." },
+      { "año": 2004, "descripcion": "Debut oficial con el primer equipo del FC Barcelona." },
+      { "año": 2021, "descripcion": "Gana la Copa América con Argentina." },
+      { "año": 2022, "descripcion": "Gana la Copa Mundial de la FIFA en Qatar." }
+    ]
+  },
+  {
+    "nombre": "Beyoncé",
+    "nacimiento": 1981,
+    "eventos": [
+      { "año": 1981, "descripcion": "Nacimiento en Houston, Texas." },
+      { "año": 2003, "descripcion": "Lanza su primer álbum solista 'Dangerously in Love'." },
+      { "año": 2023, "descripcion": "Se convierte en la artista con más premios Grammy de la historia." }
+    ]
+  },
+  {
+  "nombre": "Donald Trump",
+  "nacimiento": 1946,
+  "eventos": [
+    { "año": 1946, "descripcion": "Nacimiento en Queens, Nueva York." },
+    { "año": 1968, "descripcion": "Se gradúa en Economía en la Wharton School de la Universidad de Pensilvania." },
+    { "año": 1971, "descripcion": "Toma el control de la empresa de su padre, renombrándola como The Trump Organization." },
+    { "año": 1983, "descripcion": "Inaugura la Trump Tower en la Quinta Avenida de Nueva York, su edificio más emblemático." },
+    { "año": 1987, "descripcion": "Publica su libro 'The Art of the Deal', que lo posiciona como icono del éxito empresarial." },
+    { "año": 2004, "descripcion": "Debuta como presentador y productor del reality show 'The Apprentice' en NBC." },
+    { "año": 2015, "descripcion": "Anuncia oficialmente su candidatura a la presidencia en la Torre Trump." },
+    { "año": 2016, "descripcion": "Gana las elecciones presidenciales derrotando a Hillary Clinton contra todo pronóstico." },
+    { "año": 2017, "descripcion": "Asume como el 45.º presidente de los Estados Unidos." },
+    { "año": 2024, "descripcion": "Gana las elecciones para un segundo mandato no consecutivo, siendo electo el 47.º presidente." }
+  ]
+  },
+  {
+    "nombre": "Joe Biden",
+    "nacimiento": 1942,
+    "eventos": [
+      { "año": 1942, "descripcion": "Nacimiento en Scranton, Pensilvania." },
+      { "año": 2009, "descripcion": "Asume como Vicepresidente de los Estados Unidos" },
+      { "año": 2021, "descripcion": "Asume como 46.º presidente de los Estados Unidos." }
+    ]
+  },
+  {
+    "nombre": "Vladimir Putin",
+    "nacimiento": 1952,
+    "eventos": [
+      { "año": 1952, "descripcion": "Nacimiento en Leningrado (actual San Petersburgo), URSS." },
+      { "año": 1975, "descripcion": "Se une a la KGB tras graduarse en Derecho en la Universidad de Leningrado." },
+      { "año": 1985, "descripcion": "Es destinado a Dresde, Alemania Oriental, como agente de inteligencia." },
+      { "año": 1991, "descripcion": "Renuncia a la KGB con el rango de teniente coronel e inicia su carrera política en San Petersburgo." },
+      { "año": 1998, "descripcion": "Es nombrado director del Servicio Federal de Seguridad (FSB), sucesor de la antigua KGB." },
+      { "año": 1999, "descripcion": "Boris Yeltsin lo nombra Primer Ministro; inicia la Segunda Guerra Chechena." },
+      { "año": 2000, "descripcion": "Gana sus primeras elecciones presidenciales con el 53% de los votos." },
+      { "año": 2008, "descripcion": "Asume como Primer Ministro tras cumplir dos mandatos, dejando la presidencia a Dmitri Medvédev." },
+      { "año": 2012, "descripcion": "Regresa a la presidencia tras una reforma constitucional que extiende los mandatos a 6 años." },
+      { "año": 2014, "descripcion": "Anexión de la península de Crimea tras una intervención militar y un referéndum no reconocido." },
+      { "año": 2022, "descripcion": "Ordena la invasión a gran escala de Ucrania, iniciando el mayor conflicto en Europa desde 1945." }
+    ]
+  },
+  {
+  "nombre": "Friedrich Nietzsche",
+  "nacimiento": 1844,
+  "eventos": [
+    { "año": 1844, "descripcion": "Nacimiento en Röcken, Prusia." },
+    { "año": 1882, "descripcion": "Publica 'La gaya ciencia', donde proclama la 'muerte de Dios'." },
+    { "año": 1883, "descripcion": "Escribe 'Así habló Zaratustra', introduciendo el concepto del Superhombre." },
+    { "año": 1889, "descripcion": "Sufre un colapso mental en Turín del que nunca se recuperaría." },
+    { "año": 1900, "descripcion": "Fallece en Weimar, el mismo año que se publica el libro de Freud sobre los sueños." }
+  ]
+  },
+  {
+  "nombre": "Xi Jinping",
+  "nacimiento": 1953,
+  "eventos": [
+    { "año": 1953, "descripcion": "Nacimiento en Pekín, hijo del veterano revolucionario Xi Zhongxun." },
+    { "año": 1969, "descripcion": "Durante la Revolución Cultural, es enviado a trabajar al campo en Liangjiahe, viviendo en una cueva." },
+    { "año": 1975, "descripcion": "Regresa a Pekín para estudiar Ingeniería Química en la prestigiosa Universidad de Tsinghua." },
+    { "año": 1982, "descripcion": "Inicia su carrera política local como secretario en el condado de Zhengding, Hebei." },
+    { "año": 2002, "descripcion": "Es nombrado Gobernador de la provincia de Zhejiang, impulsando el crecimiento económico regional." },
+    { "año": 2007, "descripcion": "Entra en el Comité Permanente del Politburó, posicionándose como el sucesor de Hu Jintao." },
+    { "año": 2012, "descripcion": "Es nombrado Secretario General del Partido Comunista y Presidente de la Comisión Militar Central." },
+    { "año": 2013, "descripcion": "Asume como Presidente de la República Popular China y lanza la iniciativa 'La Franja y la Ruta'." },
+    { "año": 2017, "descripcion": "El 'Pensamiento de Xi Jinping' se incorpora a la Constitución del Partido, elevando su estatus al nivel de Mao Zedong." },
+    { "año": 2018, "descripcion": "Se eliminan los límites de dos mandatos presidenciales en la Constitución, permitiéndole gobernar indefinidamente." },
+    { "año": 2022, "descripcion": "Asegura un histórico tercer mandato como líder máximo en el 20.º Congreso del Partido Comunista." }
+  ]
+},
+  {
+    "nombre": "Narendra Modi",
+    "nacimiento": 1950,
+    "eventos": [
+      { "año": 1950, "descripcion": "Nacimiento en Vadnagar, India." },
+      { "año": 2001, "descripcion": "Se convierte en Ministro Jefe de Gujarat." },
+      { "año": 2014, "descripcion": "Asume como Primer Ministro de la India." }
+    ]
+  },
+  {
+  "nombre": "Bill Gates",
+  "nacimiento": 1955,
+  "eventos": [
+    { "año": 1955, "descripcion": "Nacimiento en Seattle, Washington." },
+    { "año": 1973, "descripcion": "Ingresa a la Universidad de Harvard, donde conoce a Steve Ballmer." },
+    { "año": 1975, "descripcion": "Abandona Harvard y cofunda Microsoft junto a Paul Allen tras desarrollar un Intérprete de BASIC." },
+    { "año": 1980, "descripcion": "Firma el contrato histórico con IBM para proporcionar el sistema operativo MS-DOS." },
+    { "año": 1985, "descripcion": "Lanza la primera versión de Microsoft Windows, cambiando la informática personal." },
+    { "año": 1995, "descripcion": "Lanza Windows 95 y publica su libro 'The Road Ahead', prediciendo la era de internet." },
+    { "año": 2000, "descripcion": "Crea la Fundación Bill y Melinda Gates y deja el cargo de CEO para enfocarse en la filantropía." },
+    { "año": 2008, "descripcion": "Se retira de sus funciones diarias en Microsoft para dedicarse a la salud global y el cambio climático." },
+    { "año": 2021, "descripcion": "Publica 'Cómo evitar un desastre climático', consolidando su rol como referente en sostenibilidad." }
+  ]
+  },
+  {
+    "nombre": "Jeff Bezos",
+    "nacimiento": 1964,
+    "eventos": [
+      { "año": 1964, "descripcion": "Nacimiento en Albuquerque, Nuevo México." },
+      { "año": 1994, "descripcion": "Funda Amazon en un garaje de Seattle." },
+      { "año": 2000, "descripcion": "Funda la empresa aeroespacial Blue Origin." }
+    ]
+  },
+  {
+    "nombre": "Mark Zuckerberg",
+    "nacimiento": 1984,
+    "eventos": [
+      { "año": 1984, "descripcion": "Nacimiento en White Plains, Nueva York." },
+      { "año": 2004, "descripcion": "Lanza 'TheFacebook' desde su dormitorio en Harvard." },
+      { "año": 2021, "descripcion": "Rebautiza la compañía como Meta Platforms." }
+    ]
+  },
+  {
+    "nombre": "Sam Altman",
+    "nacimiento": 1985,
+    "eventos": [
+      { "año": 1985, "descripcion": "Nacimiento en Chicago, Illinois." },
+      { "año": 2019, "descripcion": "Se convierte en CEO de OpenAI." },
+      { "año": 2022, "descripcion": "Lanzamiento de ChatGPT, iniciando el boom de la IA generativa." }
+    ]
+  },
+  {
+    "nombre": "Jensen Huang",
+    "nacimiento": 1963,
+    "eventos": [
+      { "año": 1963, "descripcion": "Nacimiento en Tainan, Taiwán." },
+      { "año": 1993, "descripcion": "Cofunda NVIDIA." },
+      { "año": 2023, "descripcion": "NVIDIA supera el billón de dólares en valoración de mercado impulsada por la IA." }
+    ]
+  },
+  {
+    "nombre": "Tim Cook",
+    "nacimiento": 1960,
+    "eventos": [
+      { "año": 1960, "descripcion": "Nacimiento en Mobile, Alabama." },
+      { "año": 2011, "descripcion": "Sucede a Steve Jobs como CEO de Apple." },
+      { "año": 2024, "descripcion": "Lanzamiento del Apple Vision Pro." }
+    ]
+  },
+  {
+    "nombre": "Sundar Pichai",
+    "nacimiento": 1972,
+    "eventos": [
+      { "año": 1972, "descripcion": "Nacimiento en Madurai, India." },
+      { "año": 2015, "descripcion": "Es nombrado CEO de Google." },
+      { "año": 2019, "descripcion": "Se convierte en CEO de Alphabet Inc." }
+    ]
+  },
+  {
+    "nombre": "Bad Bunny",
+    "nacimiento": 1994,
+    "eventos": [
+      { "año": 1994, "descripcion": "Nacimiento en Vega Baja, Puerto Rico." },
+      { "año": 2020, "descripcion": "Lanza el álbum 'YHLQMDLG' y actúa en el Super Bowl." },
+      { "año": 2022, "descripcion": "Se consagra como el artista más escuchado del mundo en Spotify por tercer año consecutivo." }
+    ]
+  },
+  {
+    "nombre": "Karol G",
+    "nacimiento": 1991,
+    "eventos": [
+      { "año": 1991, "descripcion": "Nacimiento en Medellín, Colombia." },
+      { "año": 2019, "descripcion": "Lanzamiento del éxito mundial 'Tusa'." },
+      { "año": 2023, "descripcion": "Su álbum 'Mañana Será Bonito' hace historia en el Billboard 200." }
+    ]
+  },
+  {
+    "nombre": "Drake",
+    "nacimiento": 1986,
+    "eventos": [
+      { "año": 1986, "descripcion": "Nacimiento en Toronto, Canadá." },
+      { "año": 2010, "descripcion": "Lanza su álbum debut 'Thank Me Later'." },
+      { "año": 2021, "descripcion": "Es nombrado Artista de la Década por Billboard." }
+    ]
+  },
+  {
+    "nombre": "Kanye West",
+    "nacimiento": 1977,
+    "eventos": [
+      { "año": 1977, "descripcion": "Nacimiento en Atlanta, Georgia." },
+      { "año": 2004, "descripcion": "Lanza 'The College Dropout'." },
+      { "año": 2015, "descripcion": "Lanzamiento de la línea de moda Yeezy con Adidas." }
+    ]
+  },
+  {
+    "nombre": "Rihanna",
+    "nacimiento": 1988,
+    "eventos": [
+      { "año": 1988, "descripcion": "Nacimiento en Saint Michael, Barbados." },
+      { "año": 2007, "descripcion": "Gana fama mundial con el sencillo 'Umbrella'." },
+      { "año": 2017, "descripcion": "Lanza su marca de cosméticos Fenty Beauty." },
+      { "año": 2023, "descripcion": "Protagoniza el show de medio tiempo del Super Bowl." }
+    ]
+  },
+  {
+    "nombre": "Billie Eilish",
+    "nacimiento": 2001,
+    "eventos": [
+      { "año": 2001, "descripcion": "Nacimiento en Los Ángeles, California." },
+      { "año": 2020, "descripcion": "Barre en los premios Grammy ganando las cuatro categorías principales." },
+      { "año": 2024, "descripcion": "Gana su segundo Óscar por la canción de 'Barbie'." }
+    ]
+  },
+  {
+    "nombre": "Dua Lipa",
+    "nacimiento": 1995,
+    "eventos": [
+      { "año": 1995, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 2017, "descripcion": "Lanza 'New Rules', su primer éxito número uno en el Reino Unido." },
+      { "año": 2020, "descripcion": "Publicación del aclamado álbum 'Future Nostalgia'." }
+    ]
+  },
+  {
+    "nombre": "Shakira",
+    "nacimiento": 1977,
+    "eventos": [
+      { "año": 1977, "descripcion": "Nacimiento en Barranquilla, Colombia." },
+      { "año": 2001, "descripcion": "Lanza 'Servicio de Lavandería' y conquista el mercado anglosajón." },
+      { "año": 2023, "descripcion": "Rompe récords mundiales con la 'Bzrp Music Sessions, Vol. 53'." }
+    ]
+  },
+  {
+    "nombre": "Rosalía",
+    "nacimiento": 1992,
+    "eventos": [
+      { "año": 1992, "descripcion": "Nacimiento en San Cugat del Vallés, España." },
+      { "año": 2018, "descripcion": "Revoluciona el flamenco-pop con 'El Mal Querer'." },
+      { "año": 2022, "descripcion": "Gana el Grammy al Mejor Álbum Latino Rock o Alternativo por 'Motomami'." }
+    ]
+  },
+  {
+  "nombre": "Imperio Romano",
+  "nacimiento": -27,
+  "eventos": [
+    { "año": -27, "descripcion": "Augusto es nombrado el primer Emperador, marcando el fin de la República." },
+    { "año": 43, "descripcion": "Inicia la conquista de Britania (Inglaterra) bajo el emperador Claudio." },
+    { "año": 80, "descripcion": "Se inaugura el Coliseo de Roma, el anfiteatro más grande del imperio." },
+    { "año": 117, "descripcion": "Máxima extensión territorial bajo el mando de Trajano." },
+    { "año": 313, "descripcion": "Edicto de Milán: Constantino legaliza el cristianismo en el imperio." },
+    { "año": 395, "descripcion": "División definitiva en Imperio de Occidente e Imperio de Oriente." },
+    { "año": 476, "descripcion": "Caída del Imperio Romano de Occidente tras la invasión de Odoacro." }
+  ]
+  },
+  {
+  "nombre": "Francia",
+  "nacimiento": 1789,
+  "eventos": [
+    { "año": 1789, "descripcion": "Toma de la Bastilla e inicio de la Revolución Francesa." },
+    { "año": 1793, "descripcion": "Ejecución de Luis XVI y fin de la monarquía absoluta." },
+    { "año": 1804, "descripcion": "Napoleón Bonaparte se corona Emperador de los franceses." },
+    { "año": 1889, "descripcion": "Inauguración de la Torre Eiffel para la Exposición Universal." },
+    { "año": 1944, "descripcion": "Liberación de París tras la ocupación nazi en la Segunda Guerra Mundial." },
+    { "año": 1958, "descripcion": "Fundación de la Quinta República por Charles de Gaulle." }
+  ]
+  },
+  {
+  "nombre": "Jesús de Nazaret",
+  "nacimiento": -4,
+  "eventos": [
+    { "año": -4, "descripcion": "Nacimiento aproximado en Belén, Judea (según cálculos históricos modernos)." },
+    { "año": 26, "descripcion": "Comienzo de su vida pública y bautismo por Juan el Bautista." },
+    { "año": 27, "descripcion": "Sermón de la Montaña, donde establece las bases éticas de su enseñanza." },
+    { "año": 30, "descripcion": "Entrada triunfal en Jerusalén y celebración de la Última Cena." },
+    { "año": 33, "descripcion": "Crucifixión en el Gólgota bajo el mandato de Poncio Pilato." }
+  ]
+  },
+  {
+  "nombre": "Argentina",
+  "nacimiento": 1810,
+  "eventos": [
+    { "año": 1810, "descripcion": "Revolución de Mayo: primer gobierno patrio (Primera Junta)." },
+    { "año": 1816, "descripcion": "Declaración de la Independencia en las Provincias Unidas en Tucumán." },
+    { "año": 1853, "descripcion": "Sanción de la Constitución Nacional Argentina." },
+    { "año": 1880, "descripcion": "Federalización de Buenos Aires y consolidación del Estado moderno." },
+    { "año": 1912, "descripcion": "Ley Sáenz Peña: voto universal (masculino), secreto y obligatorio." },
+    { "año": 1983, "descripcion": "Retorno a la democracia con la asunción de Raúl Alfonsín." },
+    { "año": 2022, "descripcion": "La Selección Argentina gana su tercera Copa del Mundo en Qatar." }
+  ]
+  },
+  {
+  "nombre": "Inglaterra / UK",
+  "nacimiento": 1066,
+  "eventos": [
+    { "año": 1066, "descripcion": "Batalla de Hastings y comienzo de la conquista normanda." },
+    { "año": 1215, "descripcion": "Firma de la Carta Magna, limitando el poder del Rey por primera vez." },
+    { "año": 1534, "descripcion": "Enrique VIII rompe con Roma y crea la Iglesia de Inglaterra." },
+    { "año": 1837, "descripcion": "Inicio de la Era Victoriana: el Reino Unido se vuelve la mayor potencia mundial." },
+    { "año": 1940, "descripcion": "Winston Churchill lidera la resistencia contra los nazis en la Batalla de Inglaterra." },
+    { "año": 1952, "descripcion": "Asunción de Isabel II, iniciando el reinado más largo de su historia." },
+    { "año": 2020, "descripcion": "Brexit: el Reino Unido abandona oficialmente la Unión Europea." }
+  ]
+  },
+  {
+  "nombre": "Perú",
+  "nacimiento": 1438,
+  "eventos": [
+    { "año": 1438, "descripcion": "Pachacútec inicia la gran expansión del Imperio Inca (Tahuantinsuyo)." },
+    { "año": 1532, "descripcion": "Captura de Atahualpa en Cajamarca por las tropas de Francisco Pizarro." },
+    { "año": 1542, "descripcion": "Creación del Virreinato del Perú, centro del poder español en Sudamérica." },
+    { "año": 1821, "descripcion": "Don José de San Martín proclama la Independencia del Perú en Lima." },
+    { "año": 1824, "descripcion": "Batalla de Ayacucho: se sella definitivamente la independencia sudamericana." },
+    { "año": 1911, "descripcion": "Hiram Bingham llega a las ruinas de Machu Picchu, dándolas a conocer al mundo." },
+    { "año": 2011, "descripcion": "Inauguración del Gran Teatro Nacional, hito cultural moderno." }
+  ]
+  },
+  {
+    "nombre": "The Weeknd",
+    "nacimiento": 1990,
+    "eventos": [
+      { "año": 1990, "descripcion": "Nacimiento en Toronto, Canadá." },
+      { "año": 2015, "descripcion": "Se convierte en estrella mundial con 'Can't Feel My Face'." },
+      { "año": 2021, "descripcion": "Protagoniza el show de medio tiempo del Super Bowl." }
+    ]
+  },
+  {
+    "nombre": "Jungkook",
+    "nacimiento": 1997,
+    "eventos": [
+      { "año": 1997, "descripcion": "Nacimiento en Busan, Corea del Sur." },
+      { "año": 2013, "descripcion": "Debuta como miembro del grupo BTS." },
+      { "año": 2023, "descripcion": "Lanza su álbum solista 'Golden' con éxito global." }
+    ]
+  },
+  {
+    "nombre": "Kim Kardashian",
+    "nacimiento": 1980,
+    "eventos": [
+      { "año": 1980, "descripcion": "Nacimiento en Los Ángeles, California." },
+      { "año": 2007, "descripcion": "Estreno del reality show 'Keeping Up with the Kardashians'." },
+      { "año": 2019, "descripcion": "Funda la empresa de fajas y ropa interior Skims." }
+    ]
+  },
+  {
+    "nombre": "Kylie Jenner",
+    "nacimiento": 1997,
+    "eventos": [
+      { "año": 1997, "descripcion": "Nacimiento en Los Ángeles, California." },
+      { "año": 2015, "descripcion": "Lanza sus famosos 'Lip Kits', iniciando Kylie Cosmetics." },
+      { "año": 2019, "descripcion": "Es nombrada la multimillonaria más joven hecha a sí misma." }
+    ]
+  },
+  {
+    "nombre": "Zendaya",
+    "nacimiento": 1996,
+    "eventos": [
+      { "año": 1996, "descripcion": "Nacimiento en Oakland, California." },
+      { "año": 2019, "descripcion": "Estreno de la serie 'Euphoria'." },
+      { "año": 2020, "descripcion": "Se convierte en la ganadora más joven del Emmy a Mejor Actriz Dramática." }
+    ]
+  },
+  {
+    "nombre": "Timothée Chalamet",
+    "nacimiento": 1995,
+    "eventos": [
+      { "año": 1995, "descripcion": "Nacimiento en Nueva York, Estados Unidos." },
+      { "año": 2017, "descripcion": "Recibe nominación al Óscar por 'Call Me by Your Name'." },
+      { "año": 2023, "descripcion": "Protagoniza el éxito de taquilla 'Wonka'." }
+    ]
+  },
+  {
+    "nombre": "Margot Robbie",
+    "nacimiento": 1990,
+    "eventos": [
+      { "año": 1990, "descripcion": "Nacimiento en Dalby, Australia." },
+      { "año": 2013, "descripcion": "Salta a la fama con 'El lobo de Wall Street'." },
+      { "año": 2023, "descripcion": "Produce y protagoniza 'Barbie', la película más taquillera del año." }
+    ]
+  },
+  {
+    "nombre": "Ryan Gosling",
+    "nacimiento": 1980,
+    "eventos": [
+      { "año": 1980, "descripcion": "Nacimiento en London, Ontario, Canadá." },
+      { "año": 2004, "descripcion": "Protagoniza el drama romántico 'Diario de una pasión'." },
+      { "año": 2023, "descripcion": "Interpreta a Ken en la película 'Barbie'." }
+    ]
+  },
+  {
+    "nombre": "Pedro Pascal",
+    "nacimiento": 1975,
+    "eventos": [
+      { "año": 1975, "descripcion": "Nacimiento en Santiago, Chile." },
+      { "año": 2019, "descripcion": "Estreno de 'The Mandalorian' en Disney+." },
+      { "año": 2023, "descripcion": "Protagoniza la aclamada serie 'The Last of Us'." }
+    ]
+  },
+  {
+    "nombre": "Cillian Murphy",
+    "nacimiento": 1976,
+    "eventos": [
+      { "año": 1976, "descripcion": "Nacimiento en Cork, Irlanda." },
+      { "año": 2013, "descripcion": "Comienza a interpretar a Tommy Shelby en 'Peaky Blinders'." },
+      { "año": 2024, "descripcion": "Gana el Óscar a Mejor Actor por 'Oppenheimer'." }
+    ]
+  },
+  {
+    "nombre": "Christopher Nolan",
+    "nacimiento": 1970,
+    "eventos": [
+      { "año": 1970, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 2008, "descripcion": "Dirige 'The Dark Knight', redefiniendo el cine de superhéroes." },
+      { "año": 2024, "descripcion": "Gana sus primeros premios Óscar (Dirección y Película) por 'Oppenheimer'." }
+    ]
+  },
+  {
+    "nombre": "Greta Thunberg",
+    "nacimiento": 2003,
+    "eventos": [
+      { "año": 2003, "descripcion": "Nacimiento en Estocolmo, Suecia." },
+      { "año": 2018, "descripcion": "Inicia la huelga escolar por el clima frente al parlamento sueco." },
+      { "año": 2019, "descripcion": "Nombrada Persona del Año por la revista Time." }
+    ]
+  },
+  {
+    "nombre": "Volodymyr Zelensky",
+    "nacimiento": 1978,
+    "eventos": [
+      { "año": 1978, "descripcion": "Nacimiento en Kryvyi Rih, Ucrania." },
+      { "año": 2019, "descripcion": "Gana las elecciones presidenciales tras su carrera como actor." },
+      { "año": 2022, "descripcion": "Lidera la defensa de Ucrania tras la invasión rusa." }
+    ]
+  },
+  {
+  "nombre": "Javier Milei",
+  "nacimiento": 1970,
+  "eventos": [
+    { "año": 1970, "descripcion": "Nacimiento en Buenos Aires, Argentina." },
+    { "año": 1993, "descripcion": "Se gradúa como Licenciado en Economía en la Universidad de Belgrano." },
+    { "año": 2014, "descripcion": "Empieza a ganar notoriedad masiva como panelista económico en televisión." },
+    { "año": 2016, "descripcion": "Publica 'El camino del libertario', exponiendo sus bases de pensamiento económico." },
+    { "año": 2018, "descripcion": "Consigue el récord Guinness por la clase de economía más concurrida de la historia." },
+    { "año": 2021, "descripcion": "Funda la coalición La Libertad Avanza y es electo Diputado Nacional por la CABA." },
+    { "año": 2023, "descripcion": "Gana el balotaje presidencial con el 55.6% de los votos y asume como Presidente." },
+    { "año": 2024, "descripcion": "Implementa el 'Plan Motosierra' para la desregulación económica y el ajuste del Estado." }
+  ]
+  },
+  {
+    "nombre": "Emmanuel Macron",
+    "nacimiento": 1977,
+    "eventos": [
+      { "año": 1977, "descripcion": "Nacimiento en Amiens, Francia." },
+      { "año": 2017, "descripcion": "Se convierte en el presidente más joven de la historia de Francia." },
+      { "año": 2022, "descripcion": "Es reelegido para un segundo mandato presidencial." }
+    ]
+  },
+  {
+    "nombre": "Lula da Silva",
+    "nacimiento": 1945,
+    "eventos": [
+      { "año": 1945, "descripcion": "Nacimiento en Caetés, Brasil." },
+      { "año": 2003, "descripcion": "Asume su primer mandato como Presidente de Brasil." },
+      { "año": 2023, "descripcion": "Inicia su tercer mandato presidencial no consecutivo." }
+    ]
+  },
+  {
+    "nombre": "Nayib Bukele",
+    "nacimiento": 1981,
+    "eventos": [
+      { "año": 1981, "descripcion": "Nacimiento en San Salvador, El Salvador." },
+      { "año": 2019, "descripcion": "Asume la presidencia rompiendo el bipartidismo histórico." },
+      { "año": 2024, "descripcion": "Logra una reelección aplastante en los comicios presidenciales." }
+    ]
+  },
+  {
+    "nombre": "Papa Francisco",
+    "nacimiento": 1936,
+    "eventos": [
+      { "año": 1936, "descripcion": "Nacimiento en Buenos Aires, Argentina." },
+      { "año": 1998, "descripcion": "Es nombrado Arzobispo de Buenos Aires." },
+      { "año": 2013, "descripcion": "Es elegido como el 266.º Papa de la Iglesia Católica." }
+    ]
+  },
+  {
+    "nombre": "Serena Williams",
+    "nacimiento": 1981,
+    "eventos": [
+      { "año": 1981, "descripcion": "Nacimiento en Saginaw, Míchigan." },
+      { "año": 1999, "descripcion": "Gana su primer título de Grand Slam (US Open)." },
+      { "año": 2022, "descripcion": "Se retira del tenis profesional con 23 títulos de Grand Slam." }
+    ]
+  },
+  {
+    "nombre": "LeBron James",
+    "nacimiento": 1984,
+    "eventos": [
+      { "año": 1984, "descripcion": "Nacimiento en Akron, Ohio." },
+      { "año": 2003, "descripcion": "Debut en la NBA con los Cleveland Cavaliers." },
+      { "año": 2023, "descripcion": "Se convierte en el máximo anotador de la historia de la NBA." }
+    ]
+  },
+  {
+    "nombre": "Simone Biles",
+    "nacimiento": 1997,
+    "eventos": [
+      { "año": 1997, "descripcion": "Nacimiento en Columbus, Ohio." },
+      { "año": 2016, "descripcion": "Gana 4 medallas de oro en los Juegos Olímpicos de Río." },
+      { "año": 2024, "descripcion": "Regreso triunfal en los JJ.OO. de París, consolidando su estatus de leyenda." }
+    ]
+  },
+  {
+    "nombre": "Max Verstappen",
+    "nacimiento": 1997,
+    "eventos": [
+      { "año": 1997, "descripcion": "Nacimiento en Hasselt, Bélgica (nacionalidad neerlandesa)." },
+      { "año": 2015, "descripcion": "Se convierte en el piloto más joven en debutar en la Fórmula 1." },
+      { "año": 2021, "descripcion": "Gana su primer Campeonato Mundial de Fórmula 1." }
+    ]
+  },
+  {
+    "nombre": "Lewis Hamilton",
+    "nacimiento": 1985,
+    "eventos": [
+      { "año": 1985, "descripcion": "Nacimiento en Stevenage, Reino Unido." },
+      { "año": 2008, "descripcion": "Gana su primer título mundial de Fórmula 1." },
+      { "año": 2020, "descripcion": "Iguala el récord de Michael Schumacher con 7 títulos mundiales." }
+    ]
+  },
+  {
+    "nombre": "Kylian Mbappé",
+    "nacimiento": 1998,
+    "eventos": [
+      { "año": 1998, "descripcion": "Nacimiento en París, Francia." },
+      { "año": 2018, "descripcion": "Gana la Copa Mundial de la FIFA con Francia, anotando en la final." },
+      { "año": 2024, "descripcion": "Se oficializa su fichaje por el Real Madrid." }
+    ]
+  },
+  {
+    "nombre": "Erling Haaland",
+    "nacimiento": 2000,
+    "eventos": [
+      { "año": 2000, "descripcion": "Nacimiento en Leeds, Reino Unido (nacionalidad noruega)." },
+      { "año": 2022, "descripcion": "Ficha por el Manchester City." },
+      { "año": 2023, "descripcion": "Gana el triplete y rompe el récord de goles en una temporada de la Premier League." }
+    ]
+  },
+  {
+    "nombre": "Novak Djokovic",
+    "nacimiento": 1987,
+    "eventos": [
+      { "año": 1987, "descripcion": "Nacimiento en Belgrado, Serbia." },
+      { "año": 2008, "descripcion": "Gana su primer Grand Slam en el Abierto de Australia." },
+      { "año": 2023, "descripcion": "Se convierte en el máximo ganador de Grand Slams masculinos de la historia." }
+    ]
+  },
+  {
+    "nombre": "Shohei Ohtani",
+    "nacimiento": 1994,
+    "eventos": [
+      { "año": 1994, "descripcion": "Nacimiento en Oshu, Japón." },
+      { "año": 2018, "descripcion": "Debuta en la MLB con los Angeles Angels." },
+      { "año": 2023, "descripcion": "Firma el contrato más grande en la historia del deporte con los LA Dodgers." }
+    ]
+  },
+  {
+    "nombre": "MrBeast",
+    "nacimiento": 1998,
+    "eventos": [
+      { "año": 1998, "descripcion": "Nacimiento en Wichita, Kansas." },
+      { "año": 2017, "descripcion": "Se vuelve viral con su video contando hasta 100,000." },
+      { "año": 2024, "descripcion": "Se convierte en el canal de YouTube con más suscriptores del mundo." }
+    ]
+  },
+  {
+    "nombre": "PewDiePie",
+    "nacimiento": 1989,
+    "eventos": [
+      { "año": 1989, "descripcion": "Nacimiento en Gotemburgo, Suecia." },
+      { "año": 2013, "descripcion": "Se convierte en el usuario con más suscriptores en YouTube." },
+      { "año": 2019, "descripcion": "Supera los 100 millones de suscriptores." }
+    ]
+  },
+  {
+    "nombre": "Ibai Llanos",
+    "nacimiento": 1995,
+    "eventos": [
+      { "año": 1995, "descripcion": "Nacimiento en Bilbao, España." },
+      { "año": 2021, "descripcion": "Transmite la Copa América y entrevista a Messi en su presentación en el PSG." },
+      { "año": 2023, "descripcion": "Lanza la Kings League junto a Gerard Piqué." }
+    ]
+  },
+  {
+    "nombre": "AuronPlay",
+    "nacimiento": 1988,
+    "eventos": [
+      { "año": 1988, "descripcion": "Nacimiento en Badalona, España." },
+      { "año": 2019, "descripcion": "Hace la transición definitiva de YouTube a Twitch, rompiendo récords." },
+      { "año": 2021, "descripcion": "Se consolida como uno de los streamers más vistos de habla hispana." }
+    ]
+  },
+  {
+    "nombre": "Kai Cenat",
+    "nacimiento": 2001,
+    "eventos": [
+      { "año": 2001, "descripcion": "Nacimiento en Nueva York, Estados Unidos." },
+      { "año": 2023, "descripcion": "Rompe el récord de más suscriptores activos en la historia de Twitch." },
+      { "año": 2023, "descripcion": "Gana el premio a 'Streamer del Año'." }
+    ]
+  },
+  {
+    "nombre": "IShowSpeed",
+    "nacimiento": 2005,
+    "eventos": [
+      { "año": 2005, "descripcion": "Nacimiento en Cincinnati, Ohio." },
+      { "año": 2022, "descripcion": "Alcanza la fama masiva por su contenido de fútbol y su fanatismo por Cristiano Ronaldo." },
+      { "año": 2024, "descripcion": "Realiza un tour por Europa y Asia con audiencias masivas en vivo." }
+    ]
+  },
+  {
+    "nombre": "Khaby Lame",
+    "nacimiento": 2000,
+    "eventos": [
+      { "año": 2000, "descripcion": "Nacimiento en Senegal (nacionalidad italiana)." },
+      { "año": 2020, "descripcion": "Comienza a publicar en TikTok tras perder su trabajo en la pandemia." },
+      { "año": 2022, "descripcion": "Se convierte en la persona con más seguidores en TikTok en todo el mundo." }
+    ]
+  },
+  {
+    "nombre": "Charli D’Amelio",
+    "nacimiento": 2004,
+    "eventos": [
+      { "año": 2004, "descripcion": "Nacimiento en Norwalk, Connecticut." },
+      { "año": 2019, "descripcion": "Comienza a subir videos de baile en TikTok." },
+      { "año": 2020, "descripcion": "Es la primera persona en alcanzar los 100 millones de seguidores en TikTok." }
+    ]
+  },
+  {
+    "nombre": "Logan Paul",
+    "nacimiento": 1995,
+    "eventos": [
+      { "año": 1995, "descripcion": "Nacimiento en Westlake, Ohio." },
+      { "año": 2022, "descripcion": "Lanza la bebida hidratante Prime junto a KSI." },
+      { "año": 2023, "descripcion": "Se convierte en Campeón de los Estados Unidos de la WWE." }
+    ]
+  },
+  {
+    "nombre": "Jake Paul",
+    "nacimiento": 1997,
+    "eventos": [
+      { "año": 1997, "descripcion": "Nacimiento en Cleveland, Ohio." },
+      { "año": 2018, "descripcion": "Inicia su carrera en el boxeo profesional." },
+      { "año": 2024, "descripcion": "Se enfrenta a Mike Tyson en un evento de boxeo transmitido por Netflix." }
+    ]
+  },
+  {
+    "nombre": "Alex Hormozi",
+    "nacimiento": 1989,
+    "eventos": [
+      { "año": 1989, "descripcion": "Nacimiento en Estados Unidos." },
+      { "año": 2021, "descripcion": "Publica su libro '$100M Offers', convirtiéndose en referente de negocios." },
+      { "año": 2023, "descripcion": "Lanza Acquisition.com para invertir en empresas de servicios." }
+    ]
+  },
+  {
+    "nombre": "Andrew Tate",
+    "nacimiento": 1986,
+    "eventos": [
+      { "año": 1986, "descripcion": "Nacimiento en Washington D.C., Estados Unidos." },
+      { "año": 2022, "descripcion": "Se convierte en la figura más buscada en Google debido a su contenido viral." },
+      { "año": 2023, "descripcion": "Enfrenta procesos judiciales en Rumania que atraen atención mediática global." }
+    ]
+  },
+  {
+    "nombre": "Jordan Peterson",
+    "nacimiento": 1962,
+    "eventos": [
+      { "año": 1962, "descripcion": "Nacimiento en Edmonton, Canadá." },
+      { "año": 2016, "descripcion": "Salta a la fama por su oposición a la ley C-16 en Canadá." },
+      { "año": 2018, "descripcion": "Publica su bestseller mundial '12 reglas para vivir'." }
+    ]
+  },
+  {
+    "nombre": "Yuval Noah Harari",
+    "nacimiento": 1976,
+    "eventos": [
+      { "año": 1976, "descripcion": "Nacimiento en Haifa, Israel." },
+      { "año": 2011, "descripcion": "Publica 'Sapiens: De animales a dioses'." },
+      { "año": 2015, "descripcion": "Publica 'Homo Deus: Breve historia del mañana'." }
+    ]
+  },
+  {
+    "nombre": "Lex Fridman",
+    "nacimiento": 1983,
+    "eventos": [
+      { "año": 1983, "descripcion": "Nacimiento en Moscú, Unión Soviética." },
+      { "año": 2018, "descripcion": "Comienza el 'Lex Fridman Podcast', entrevistando a líderes en tecnología y ciencia." },
+      { "año": 2023, "descripcion": "Realiza entrevistas históricas a figuras como Elon Musk y Mark Zuckerberg." }
+    ]
+  },
+  {
+    "nombre": "Naval Ravikant",
+    "nacimiento": 1974,
+    "eventos": [
+      { "año": 1974, "descripcion": "Nacimiento en Nueva Delhi, India." },
+      { "año": 2010, "descripcion": "Cofunda AngelList." },
+      { "año": 2019, "descripcion": "Su hilo de Twitter 'How to Get Rich' se vuelve un manifiesto moderno sobre riqueza y felicidad." }
+    ]
+  },
+  {
+    "nombre": "Peter Thiel",
+    "nacimiento": 1967,
+    "eventos": [
+      { "año": 1967, "descripcion": "Nacimiento en Fráncfort, Alemania Occidental." },
+      { "año": 1998, "descripcion": "Cofunda PayPal." },
+      { "año": 2004, "descripcion": "Se convierte en el primer inversor externo de Facebook." }
+    ]
+  },
+  {
+    "nombre": "Ray Dalio",
+    "nacimiento": 1949,
+    "eventos": [
+      { "año": 1949, "descripcion": "Nacimiento en Queens, Nueva York." },
+      { "año": 1975, "descripcion": "Funda Bridgewater Associates, que llegaría a ser el hedge fund más grande del mundo." },
+      { "año": 2017, "descripcion": "Publica su libro 'Principios'." }
+    ]
+  },
+  {
+  "nombre": "Salvador Dalí",
+  "nacimiento": 1904,
+  "eventos": [
+    { "año": 1904, "descripcion": "Nacimiento en Figueras, España." },
+    { "año": 1929, "descripcion": "Se une al grupo surrealista y pinta 'El gran masturbador', lleno de simbolismo freudiano." },
+    { "año": 1931, "descripcion": "Pinta 'La persistencia de la memoria' (los relojes blandos)." },
+    { "año": 1938, "descripcion": "Finalmente conoce a Freud en Londres y le hace un retrato mientras Freud agonizaba." },
+    { "año": 1989, "descripcion": "Fallecimiento en Figueras." }
+  ]
+  },
+  {
+    "nombre": "Warren Buffett",
+    "nacimiento": 1930,
+    "eventos": [
+      { "año": 1930, "descripcion": "Nacimiento en Omaha, Nebraska." },
+      { "año": 1965, "descripcion": "Toma el control de Berkshire Hathaway." },
+      { "año": 2006, "descripcion": "Anuncia que donará la mayor parte de su fortuna a la Fundación Gates." }
+    ]
+  },
+  {
+    "nombre": "Charlie Munger",
+    "nacimiento": 1924,
+    "eventos": [
+      { "año": 1924, "descripcion": "Nacimiento en Omaha, Nebraska." },
+      { "año": 1978, "descripcion": "Se convierte en vicepresidente de Berkshire Hathaway." },
+      { "año": 2023, "descripcion": "Fallecimiento a los 99 años en California." }
+    ]
+  },
+  {
+    "nombre": "Jensen Ackles",
+    "nacimiento": 1978,
+    "eventos": [
+      { "año": 1978, "descripcion": "Nacimiento en Dallas, Texas." },
+      { "año": 2005, "descripcion": "Comienza su papel icónico como Dean Winchester en 'Supernatural'." },
+      { "año": 2022, "descripcion": "Se une al elenco de 'The Boys' como Soldier Boy." }
+    ]
+  },
+  {
+    "nombre": "Keanu Reeves",
+    "nacimiento": 1964,
+    "eventos": [
+      { "año": 1964, "descripcion": "Nacimiento en Beirut, Líbano." },
+      { "año": 1999, "descripcion": "Protagoniza 'The Matrix', redefiniendo el cine de ciencia ficción." },
+      { "año": 2014, "descripcion": "Inicia la exitosa saga de acción 'John Wick'." }
+    ]
+  },
+  {
+    "nombre": "Tom Cruise",
+    "nacimiento": 1962,
+    "eventos": [
+      { "año": 1962, "descripcion": "Nacimiento en Syracuse, Nueva York." },
+      { "año": 1986, "descripcion": "Alcanza el estrellato mundial con 'Top Gun'." },
+      { "año": 2022, "descripcion": "Estrena 'Top Gun: Maverick', rompiendo récords de taquilla personales." }
+    ]
+  },
+  {
+    "nombre": "Dwayne Johnson",
+    "nacimiento": 1972,
+    "eventos": [
+      { "año": 1972, "descripcion": "Nacimiento en Hayward, California." },
+      { "año": 1996, "descripcion": "Debuta en la WWE como 'The Rock'." },
+      { "año": 2011, "descripcion": "Se une a la franquicia 'Fast & Furious', impulsando su carrera en Hollywood." }
+    ]
+  },
+  {
+    "nombre": "Will Smith",
+    "nacimiento": 1968,
+    "eventos": [
+      { "año": 1968, "descripcion": "Nacimiento en Filadelfia, Pensilvania." },
+      { "año": 1990, "descripcion": "Protagoniza la serie 'The Prince of Bel-Air'." },
+      { "año": 2022, "descripcion": "Gana el Óscar a Mejor Actor por 'King Richard'." }
+    ]
+  },
+  {
+    "nombre": "Oprah Winfrey",
+    "nacimiento": 1954,
+    "eventos": [
+      { "año": 1954, "descripcion": "Nacimiento en Kosciusko, Misisipi." },
+      { "año": 1986, "descripcion": "Lanza 'The Oprah Winfrey Show', el talk show más visto de la historia." },
+      { "año": 2011, "descripcion": "Lanza su propia cadena de televisión, OWN." }
+    ]
+  },
+  {
+    "nombre": "Ellen DeGeneres",
+    "nacimiento": 1958,
+    "eventos": [
+      { "año": 1958, "descripcion": "Nacimiento en Metairie, Luisiana." },
+      { "año": 1997, "descripcion": "Hace historia en la televisión al declarar públicamente su homosexualidad." },
+      { "año": 2003, "descripcion": "Comienza 'The Ellen DeGeneres Show'." }
+    ]
+  },
+  {
+    "nombre": "Jimmy Fallon",
+    "nacimiento": 1974,
+    "eventos": [
+      { "año": 1974, "descripcion": "Nacimiento en Brooklyn, Nueva York." },
+      { "año": 1998, "descripcion": "Se une al elenco de 'Saturday Night Live'." },
+      { "año": 2014, "descripcion": "Asume la conducción de 'The Tonight Show'." }
+    ]
+  },
+  {
+    "nombre": "Stephen King",
+    "nacimiento": 1947,
+    "eventos": [
+      { "año": 1947, "descripcion": "Nacimiento en Portland, Maine." },
+      { "año": 1974, "descripcion": "Publica su primera novela, 'Carrie'." },
+      { "año": 1986, "descripcion": "Publica 'It', una de sus obras más influyentes." }
+    ]
+  },
+  {
+    "nombre": "J.K. Rowling",
+    "nacimiento": 1965,
+    "eventos": [
+      { "año": 1965, "descripcion": "Nacimiento en Yate, Reino Unido." },
+      { "año": 1997, "descripcion": "Publica 'Harry Potter y la piedra filosofal'." },
+      { "año": 2007, "descripcion": "Finaliza la saga literaria con el séptimo libro." }
+    ]
+  },
+  {
+    "nombre": "George R.R. Martin",
+    "nacimiento": 1948,
+    "eventos": [
+      { "año": 1948, "descripcion": "Nacimiento en Bayonne, Nueva Jersey." },
+      { "año": 1996, "descripcion": "Publica 'Juego de Tronos', inicio de 'Canción de hielo y fuego'." },
+      { "año": 2011, "descripcion": "Estreno de la adaptación televisiva de HBO." }
+    ]
+  },
+  {
+    "nombre": "Hayao Miyazaki",
+    "nacimiento": 1941,
+    "eventos": [
+      { "año": 1941, "descripcion": "Nacimiento en Bunkyō, Tokio, Japón." },
+      { "año": 1985, "descripcion": "Cofunda Studio Ghibli." },
+      { "año": 2003, "descripcion": "Gana el Óscar por 'El viaje de Chihiro'." }
+    ]
+  },
+  {
+    "nombre": "Shigeru Miyamoto",
+    "nacimiento": 1952,
+    "eventos": [
+      { "año": 1952, "descripcion": "Nacimiento en Sonobe, Kioto, Japón." },
+      { "año": 1981, "descripcion": "Crea 'Donkey Kong', introduciendo a Mario." },
+      { "año": 1986, "descripcion": "Lanza 'The Legend of Zelda' para NES." }
+    ]
+  },
+  {
+    "nombre": "Hideo Kojima",
+    "nacimiento": 1963,
+    "eventos": [
+      { "año": 1963, "descripcion": "Nacimiento en Setagaya, Tokio, Japón." },
+      { "año": 1987, "descripcion": "Lanza 'Metal Gear', popularizando el género de infiltración." },
+      { "año": 2019, "descripcion": "Lanza 'Death Stranding' tras fundar su estudio independiente." }
+    ]
+  },
+  {
+    "nombre": "Neil deGrasse Tyson",
+    "nacimiento": 1958,
+    "eventos": [
+      { "año": 1958, "descripcion": "Nacimiento en Manhattan, Nueva York." },
+      { "año": 1996, "descripcion": "Es nombrado director del Planetario Hayden." },
+      { "año": 2014, "descripcion": "Presenta la serie documental 'Cosmos: A Spacetime Odyssey'." }
+    ]
+  },
+  {
+    "nombre": "Brian Cox",
+    "nacimiento": 1968,
+    "eventos": [
+      { "año": 1968, "descripcion": "Nacimiento en Oldham, Reino Unido." },
+      { "año": 2010, "descripcion": "Presenta la aclamada serie 'Wonders of the Solar System'." },
+      { "año": 2012, "descripcion": "Es nombrado Oficial de la Orden del Imperio Británico (OBE)." }
+    ]
+  },
+  {
+    "nombre": "David Attenborough",
+    "nacimiento": 1926,
+    "eventos": [
+      { "año": 1926, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 1979, "descripcion": "Estrena 'Life on Earth', revolucionando los documentales de naturaleza." },
+      { "año": 2020, "descripcion": "Bate récords en redes sociales para concientizar sobre el cambio climático." }
+    ]
+  },
+  {
+    "nombre": "Jane Goodall",
+    "nacimiento": 1934,
+    "eventos": [
+      { "año": 1934, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 1960, "descripcion": "Comienza su estudio revolucionario de chimpancés en Gombe, Tanzania." },
+      { "año": 1977, "descripcion": "Funda el Instituto Jane Goodall." }
+    ]
+  },
+  {
+    "nombre": "Sam Bankman-Fried",
+    "nacimiento": 1992,
+    "eventos": [
+      { "año": 1992, "descripcion": "Nacimiento en Stanford, California." },
+      { "año": 2019, "descripcion": "Funda el exchange de criptomonedas FTX." },
+      { "año": 2023, "descripcion": "Es declarado culpable de fraude tras el colapso de FTX." }
+    ]
+  },
+  {
+    "nombre": "Vitalik Buterin",
+    "nacimiento": 1994,
+    "eventos": [
+      { "año": 1994, "descripcion": "Nacimiento en Kolomna, Rusia." },
+      { "año": 2013, "descripcion": "Publica el white paper de Ethereum." },
+      { "año": 2015, "descripcion": "Lanzamiento oficial de la red Ethereum." }
+    ]
+  },
+  {
+    "nombre": "Satoshi Nakamoto",
+    "nacimiento": 1975,
+    "eventos": [
+      { "año": 2008, "descripcion": "Publica el white paper de Bitcoin." },
+      { "año": 2009, "descripcion": "Mina el bloque génesis de la red Bitcoin." },
+      { "año": 2010, "descripcion": "Desaparece de la vida pública dejando el proyecto en manos de la comunidad." }
+    ]
+  },
+  {
+    "nombre": "Mark Cuban",
+    "nacimiento": 1958,
+    "eventos": [
+      { "año": 1958, "descripcion": "Nacimiento en Pittsburgh, Pensilvania." },
+      { "año": 2000, "descripcion": "Compra la mayoría de los Dallas Mavericks de la NBA." },
+      { "año": 2009, "descripcion": "Se une como inversor principal al programa 'Shark Tank'." }
+    ]
+  },
+  {
+    "nombre": "Reid Hoffman",
+    "nacimiento": 1967,
+    "eventos": [
+      { "año": 1967, "descripcion": "Nacimiento en Stanford, California." },
+      { "año": 2002, "descripcion": "Cofunda LinkedIn." },
+      { "año": 2017, "descripcion": "Se une a la junta directiva de Microsoft." }
+    ]
+  },
+  {
+    "nombre": "Tim Ferriss",
+    "nacimiento": 1977,
+    "eventos": [
+      { "año": 1977, "descripcion": "Nacimiento en East Hampton, Nueva York." },
+      { "año": 2007, "descripcion": "Publica 'La semana laboral de 4 horas', éxito masivo en productividad." },
+      { "año": 2014, "descripcion": "Lanza 'The Tim Ferriss Show', uno de los podcasts más descargados del mundo." }
+    ]
+  },
+  {
+    "nombre": "Andrew Huberman",
+    "nacimiento": 1975,
+    "eventos": [
+      { "año": 1975, "descripcion": "Nacimiento en Palo Alto, California." },
+      { "año": 2021, "descripcion": "Lanza 'Huberman Lab Podcast', popularizando la neurobiología y el biohacking." }
+    ]
+  },
+  {
+    "nombre": "Gary Vaynerchuk",
+    "nacimiento": 1975,
+    "eventos": [
+      { "año": 1975, "descripcion": "Nacimiento en Babruisk, Unión Soviética (Bielorrusia)." },
+      { "año": 2006, "descripcion": "Lanza Wine Library TV, pionero en contenido de video diario." },
+      { "año": 2009, "descripcion": "Funda VaynerMedia, agencia de publicidad en redes sociales." }
+    ]
+  },
+  {
+    "nombre": "Alexei Navalny",
+    "nacimiento": 1976,
+    "eventos": [
+      { "año": 1976, "descripcion": "Nacimiento en Butyn, Unión Soviética." },
+      { "año": 2011, "descripcion": "Se consolida como el principal líder de la oposición en Rusia." },
+      { "año": 2024, "descripcion": "Fallecimiento en una prisión del Ártico, dejando un legado de resistencia política." }
+    ]
+  },
+  {
+    "nombre": "Noah Smith",
+    "nacimiento": 1980,
+    "eventos": [
+      { "año": 1980, "descripcion": "Nacimiento en Estados Unidos." },
+      { "año": 2020, "descripcion": "Se consolida como uno de los columnistas económicos más influyentes vía Substack." }
+    ]
+  },
+  {
+    "nombre": "Nassim Taleb",
+    "nacimiento": 1960,
+    "eventos": [
+      { "año": 1960, "descripcion": "Nacimiento en Amioun, Líbano." },
+      { "año": 2007, "descripcion": "Publica 'El Cisne Negro', prediciendo la fragilidad del sistema financiero." }
+    ]
+  },
+  {
+    "nombre": "Paul Graham",
+    "nacimiento": 1964,
+    "eventos": [
+      { "año": 1964, "descripcion": "Nacimiento en Weymouth, Reino Unido." },
+      { "año": 2005, "descripcion": "Cofunda Y Combinator, la aceleradora de startups más importante del mundo." }
+    ]
+  },
+  {
+    "nombre": "X Æ A-12 (Musk Jr.)",
+    "nacimiento": 2020,
+    "eventos": [
+      { "año": 2020, "descripcion": "Nacimiento en California, hijo de Elon Musk y Grimes." }
+    ]
+  },
+  {
+    "nombre": "Pew Research Center",
+    "nacimiento": 2004,
+    "eventos": [
+      { "año": 2004, "descripcion": "Fundación oficial como centro de datos no partidista en Washington D.C." }
+    ]
+  },
+  {
+    "nombre": "Anne Hidalgo",
+    "nacimiento": 1959,
+    "eventos": [
+      { "año": 1959, "descripcion": "Nacimiento en San Fernando, España (nacionalidad francesa)." },
+      { "año": 2014, "descripcion": "Se convierte en la primera mujer alcaldesa de París." }
+    ]
+  },
+  {
+    "nombre": "Ursula von der Leyen",
+    "nacimiento": 1958,
+    "eventos": [
+      { "año": 1958, "descripcion": "Nacimiento en Ixelles, Bélgica." },
+      { "año": 2019, "descripcion": "Asume como Presidenta de la Comisión Europea." }
+    ]
+  },
+  {
+    "nombre": "Janet Yellen",
+    "nacimiento": 1946,
+    "eventos": [
+      { "año": 1946, "descripcion": "Nacimiento en Brooklyn, Nueva York." },
+      { "año": 2014, "descripcion": "Primera mujer en presidir la Reserva Federal de EE. UU." },
+      { "año": 2021, "descripcion": "Asume como Secretaria del Tesoro de los Estados Unidos." }
+    ]
+  },
+  {
+    "nombre": "Christine Lagarde",
+    "nacimiento": 1956,
+    "eventos": [
+      { "año": 1956, "descripcion": "Nacimiento en París, Francia." },
+      { "año": 2011, "descripcion": "Asume como Directora Gerente del FMI." },
+      { "año": 2019, "descripcion": "Asume la presidencia del Banco Central Europeo." }
+    ]
+  },
+  {
+    "nombre": "Jerome Powell",
+    "nacimiento": 1953,
+    "eventos": [
+      { "año": 1953, "descripcion": "Nacimiento en Washington D.C." },
+      { "año": 2018, "descripcion": "Asume como Presidente de la Reserva Federal (Fed)." }
+    ]
+  },
+  {
+    "nombre": "Ozzy Osbourne",
+    "nacimiento": 1948,
+    "eventos": [
+      { "año": 1948, "descripcion": "Nacimiento en Birmingham, Reino Unido." },
+      { "año": 1970, "descripcion": "Lanzamiento del primer álbum de Black Sabbath, fundando el Heavy Metal." }
+    ]
+  },
+  {
+    "nombre": "Metallica",
+    "nacimiento": 1981,
+    "eventos": [
+      { "año": 1981, "descripcion": "Formación de la banda en Los Ángeles por James Hetfield y Lars Ulrich." },
+      { "año": 1991, "descripcion": "Lanzamiento de 'The Black Album', éxito comercial masivo." }
+    ]
+  },
+  {
+    "nombre": "Travis Scott",
+    "nacimiento": 1991,
+    "eventos": [
+      { "año": 1991, "descripcion": "Nacimiento en Houston, Texas." },
+      { "año": 2018, "descripcion": "Lanza 'Astroworld', consolidándose como ícono del trap y la moda." }
+    ]
+  },
+  {
+    "nombre": "Post Malone",
+    "nacimiento": 1995,
+    "eventos": [
+      { "año": 1995, "descripcion": "Nacimiento en Syracuse, Nueva York." },
+      { "año": 2015, "descripcion": "Salta a la fama con su sencillo debut 'White Iverson'." }
+    ]
+  },
+  {
+    "nombre": "Ed Sheeran",
+    "nacimiento": 1991,
+    "eventos": [
+      { "año": 1991, "descripcion": "Nacimiento en Halifax, Reino Unido." },
+      { "año": 2017, "descripcion": "Lanza 'Shape of You', una de las canciones más escuchadas de la historia." }
+    ]
+  },
+  {
+    "nombre": "Adele",
+    "nacimiento": 1988,
+    "eventos": [
+      { "año": 1988, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 2011, "descripcion": "Lanza '21', convirtiéndose en uno de los álbumes más vendidos del siglo XXI." }
+    ]
+  },
+  {
+    "nombre": "Lana Del Rey",
+    "nacimiento": 1985,
+    "eventos": [
+      { "año": 1985, "descripcion": "Nacimiento en Manhattan, Nueva York." },
+      { "año": 2012, "descripcion": "Lanza 'Born to Die', influyendo masivamente en la estética pop alternativa." }
+    ]
+  },
+  {
+    "nombre": "Olivia Rodrigo",
+    "nacimiento": 2003,
+    "eventos": [
+      { "año": 2003, "descripcion": "Nacimiento en Murrieta, California." },
+      { "año": 2021, "descripcion": "Lanza 'Drivers License', rompiendo récords globales de streaming." }
+    ]
+  },
+  {
+    "nombre": "Anya Taylor-Joy",
+    "nacimiento": 1996,
+    "eventos": [
+      { "año": 1996, "descripcion": "Nacimiento en Miami, Estados Unidos (criada en Argentina y Reino Unido)." },
+      { "año": 2020, "descripcion": "Protagoniza 'Gambito de Dama', convirtiéndose en estrella global." }
+    ]
+  },
+  {
+    "nombre": "Florence Pugh",
+    "nacimiento": 1996,
+    "eventos": [
+      { "año": 1996, "descripcion": "Nacimiento en Oxford, Reino Unido." },
+      { "año": 2019, "descripcion": "Protagoniza 'Midsommar' y es nominada al Óscar por 'Mujercitas'." }
+    ]
+  },
+  {
+    "nombre": "Sydney Sweeney",
+    "nacimiento": 1997,
+    "eventos": [
+      { "año": 1997, "descripcion": "Nacimiento en Spokane, Washington." },
+      { "año": 2019, "descripcion": "Gana reconocimiento masivo por su papel en la serie 'Euphoria'." }
+    ]
+  },
+  {
+    "nombre": "Jenna Ortega",
+    "nacimiento": 2002,
+    "eventos": [
+      { "año": 2002, "descripcion": "Nacimiento en Coachella Valley, California." },
+      { "año": 2022, "descripcion": "Protagoniza 'Wednesday' (Merlina), convirtiéndose en un ícono de la Generación Z." }
+    ]
+  },
+  {
+    "nombre": "Robert Downey Jr.",
+    "nacimiento": 1965,
+    "eventos": [
+      { "año": 1965, "descripcion": "Nacimiento en Manhattan, Nueva York." },
+      { "año": 2008, "descripcion": "Inicia el UCM protagonizando 'Iron Man'." },
+      { "año": 2024, "descripcion": "Gana el Óscar a Mejor Actor de Reparto por 'Oppenheimer'." }
+    ]
+  },
+  {
+    "nombre": "Henry Cavill",
+    "nacimiento": 1983,
+    "eventos": [
+      { "año": 1983, "descripcion": "Nacimiento en Saint Helier, Jersey." },
+      { "año": 2013, "descripcion": "Protagoniza 'Man of Steel' como Superman." }
+    ]
+  },
+  {
+    "nombre": "Gal Gadot",
+    "nacimiento": 1985,
+    "eventos": [
+      { "año": 1985, "descripcion": "Nacimiento en Petaj Tikva, Israel." },
+      { "año": 2017, "descripcion": "Protagoniza 'Wonder Woman', un hito para el cine de superhéroes." }
+    ]
+  },
+  {
+    "nombre": "Scarlett Johansson",
+    "nacimiento": 1984,
+    "eventos": [
+      { "año": 1984, "descripcion": "Nacimiento en Manhattan, Nueva York." },
+      { "año": 2010, "descripcion": "Debuta como Black Widow en 'Iron Man 2'." }
+    ]
+  },
+  {
+    "nombre": "Emma Stone",
+    "nacimiento": 1988,
+    "eventos": [
+      { "año": 1988, "descripcion": "Nacimiento en Scottsdale, Arizona." },
+      { "año": 2017, "descripcion": "Gana el Óscar a Mejor Actriz por 'La La Land'." },
+      { "año": 2024, "descripcion": "Gana su segundo Óscar a Mejor Actriz por 'Poor Things'." }
+    ]
+  },
+  {
+    "nombre": "Emma Watson",
+    "nacimiento": 1990,
+    "eventos": [
+      { "año": 1990, "descripcion": "Nacimiento en París, Francia (nacionalidad británica)." },
+      { "año": 2001, "descripcion": "Debuta como Hermione Granger en 'Harry Potter'." }
+    ]
+  },
+  {
+    "nombre": "Ronda Rousey",
+    "nacimiento": 1987,
+    "eventos": [
+      { "año": 1987, "descripcion": "Nacimiento en Riverside, California." },
+      { "año": 2012, "descripcion": "Se convierte en la primera mujer en firmar con la UFC." }
+    ]
+  },
+  {
+    "nombre": "Conor McGregor",
+    "nacimiento": 1988,
+    "eventos": [
+      { "año": 1988, "descripcion": "Nacimiento en Dublín, Irlanda." },
+      { "año": 2016, "descripcion": "Se convierte en el primer luchador de UFC en tener títulos de dos divisiones simultáneamente." }
+    ]
+  },
+  {
+    "nombre": "Dana White",
+    "nacimiento": 1969,
+    "eventos": [
+      { "año": 1969, "descripcion": "Nacimiento en Manchester, Connecticut." },
+      { "año": 2001, "descripcion": "Se convierte en presidente de la UFC, transformándola en un imperio global." }
+    ]
+  },
+  {
+    "nombre": "Joe Rogan",
+    "nacimiento": 1967,
+    "eventos": [
+      { "año": 1967, "descripcion": "Nacimiento en Newark, Nueva Jersey." },
+      { "año": 2009, "descripcion": "Lanza 'The Joe Rogan Experience', el podcast más influyente del mundo." }
+    ]
+  },
+  {
+    "nombre": "Ben Shapiro",
+    "nacimiento": 1984,
+    "eventos": [
+      { "año": 1984, "descripcion": "Nacimiento en Los Ángeles, California." },
+      { "año": 2015, "descripcion": "Cofunda 'The Daily Wire'." }
+    ]
+  },
+  {
+    "nombre": "Tucker Carlson",
+    "nacimiento": 1969,
+    "eventos": [
+      { "año": 1969, "descripcion": "Nacimiento en San Francisco, California." },
+      { "año": 2024, "descripcion": "Realiza la mediática entrevista a Vladimir Putin en Moscú." }
+    ]
+  },
+  {
+    "nombre": "Jon Stewart",
+    "nacimiento": 1962,
+    "eventos": [
+      { "año": 1962, "descripcion": "Nacimiento en Nueva York." },
+      { "año": 1999, "descripcion": "Comienza a conducir 'The Daily Show', redefiniendo la sátira política." }
+    ]
+  },
+  {
+    "nombre": "Slavoj Žižek",
+    "nacimiento": 1949,
+    "eventos": [
+      { "año": 1949, "descripcion": "Nacimiento en Liubliana, Eslovenia." },
+      { "año": 1989, "descripcion": "Publica 'El sublime objeto de la ideología'." }
+    ]
+  },
+  {
+    "nombre": "Byung-Chul Han",
+    "nacimiento": 1959,
+    "eventos": [
+      { "año": 1959, "descripcion": "Nacimiento en Seúl, Corea del Sur." },
+      { "año": 2010, "descripcion": "Publica 'La sociedad del cansancio', analizando la hiperproductividad moderna." }
+    ]
+  },
+  {
+    "nombre": "Peter Zeihan",
+    "nacimiento": 1973,
+    "eventos": [
+      { "año": 1973, "descripcion": "Nacimiento en Estados Unidos." },
+      { "año": 2022, "descripcion": "Publica 'The End of the World Is Just the Beginning', sobre geopolítica global." }
+    ]
+  },
+  {
+    "nombre": "Fareed Zakaria",
+    "nacimiento": 1964,
+    "eventos": [
+      { "año": 1964, "descripcion": "Nacimiento en Bombay, India." },
+      { "año": 2008, "descripcion": "Comienza su programa 'Fareed Zakaria GPS' en CNN." }
+    ]
+  },
+  {
+    "nombre": "Henry Kissinger",
+    "nacimiento": 1923,
+    "eventos": [
+      { "año": 1923, "descripcion": "Nacimiento en Fürth, Alemania." },
+      { "año": 1973, "descripcion": "Recibe el Premio Nobel de la Paz y orquesta la apertura de relaciones con China." },
+      { "año": 2023, "descripcion": "Fallecimiento a los 100 años, dejando un legado complejo en la geopolítica mundial." }
+    ]
+  },
+  {
+    "nombre": "Sun Tzu",
+    "nacimiento": -544,
+    "eventos": [
+      { "año": -512, "descripcion": "Escribe 'El Arte de la Guerra', influyendo en la estrategia militar por milenios." },
+      { "año": 2020, "descripcion": "Revive masivamente en la cultura popular como fuente de memes sobre estrategia cotidiana." }
+    ]
+  },
+  {
+    "nombre": "Nicolás Maquiavelo",
+    "nacimiento": 1469,
+    "eventos": [
+      { "año": 1469, "descripcion": "Nacimiento en Florencia, Italia." },
+      { "año": 1513, "descripcion": "Escribe 'El Príncipe', sentando las bases de la ciencia política moderna." }
+    ]
+  },
+  {
+    "nombre": "Marco Aurelio",
+    "nacimiento": 121,
+    "eventos": [
+      { "año": 161, "descripcion": "Se convierte en Emperador de Roma y referente del estoicismo." },
+      { "año": 180, "descripcion": "Escribe sus 'Meditaciones', diario personal de filosofía que sigue siendo bestseller hoy." }
+    ]
+  },
+  {
+    "nombre": "Charles Darwin",
+    "nacimiento": 1809,
+    "eventos": [
+      { "año": 1831, "descripcion": "Zarpa en el HMS Beagle para su viaje de investigación científica." },
+      { "año": 1859, "descripcion": "Publica 'El origen de las especies', revolucionando la biología." }
+    ]
+  },
+  {
+    "nombre": "Nikola Tesla",
+    "nacimiento": 1856,
+    "eventos": [
+      { "año": 1856, "descripcion": "Nacimiento en Smiljan, Imperio Austríaco." },
+      { "año": 1887, "descripcion": "Desarrolla el motor de inducción de corriente alterna (AC)." }
+    ]
+  },
+  {
+    "nombre": "J. Robert Oppenheimer",
+    "nacimiento": 1904,
+    "eventos": [
+      { "año": 1945, "descripcion": "Dirige la prueba Trinity, la primera detonación nuclear de la historia." },
+      { "año": 1954, "descripcion": "Es despojado de su acreditación de seguridad durante la era de McCarthy." }
+    ]
+  },
+  {
+    "nombre": "Ada Lovelace",
+    "nacimiento": 1815,
+    "eventos": [
+      { "año": 1815, "descripcion": "Nacimiento en Londres, Reino Unido." },
+      { "año": 1843, "descripcion": "Escribe el primer algoritmo destinado a ser procesado por una máquina." }
+    ]
+  },
+  {
+    "nombre": "Carl Sagan",
+    "nacimiento": 1934,
+    "eventos": [
+      { "año": 1980, "descripcion": "Estreno de la serie 'Cosmos', convirtiéndose en el mayor divulgador científico del siglo XX." },
+      { "año": 1990, "descripcion": "Instiga la toma de la fotografía 'Un punto azul pálido' desde la Voyager 1." }
+    ]
+  },
+  {
+  "nombre": "Richard Dawkins",
+  "nacimiento": 1941,
+  "eventos": [
+    { "año": 1941, "descripcion": "Nacimiento en Nairobi, Kenia." },
+    { "año": 1967, "descripcion": "Se doctora en zoología en la Universidad de Oxford." },
+    { "año": 1970, "descripcion": "Comienza a ejercer como profesor de zoología." },
+    { "año": 1976, "descripcion": "Publica 'El Gen Egoísta', donde acuña el término 'meme' por primera vez." },
+    { "año": 1982, "descripcion": "Publica 'El Fenotipo Extendido'." },
+    { "año": 1986, "descripcion": "Publica 'El Relojero Ciego'" },
+    { "año": 1995, "descripcion": "Es nombrado titular de la Cátedra Charles Simonyi." },
+    { "año": 2006, "descripcion": "Publica 'El Espejismo de Dios'." },
+    { "año": 2008, "descripcion": "Se jubila de su cátedra en Oxford para enfocarse en la divulgación y su fundación." },
+    { "año": 2011, "descripcion": "Publica 'La Magia de la Realidad'." }
+  ]
+},
+  {
+    "nombre": "Jordan Belfort",
+    "nacimiento": 1962,
+    "eventos": [
+      { "año": 1989, "descripcion": "Funda Stratton Oakmont, iniciando su carrera como el 'Lobo de Wall Street'." },
+      { "año": 2013, "descripcion": "Su vida es inmortalizada en el cine por Martin Scorsese." }
+    ]
+  },
+  {
+    "nombre": "Jorge Luis Borges",
+    "nacimiento": 1899,
+    "eventos": [
+      { "año": 1899, "descripcion": "Nacimiento en Buenos Aires, Argentina." },
+      { "año": 1944, "descripcion": "Publica 'Ficciones', redefiniendo la literatura fantástica y filosófica." },
+      { "año": 1986, "descripcion": "Fallecimiento en Ginebra, Suiza." }
+    ]
+  },
+  {
+    "nombre": "Julio Cortázar",
+    "nacimiento": 1914,
+    "eventos": [
+      { "año": 1914, "descripcion": "Nacimiento en Bruselas (nacionalidad argentina)." },
+      { "año": 1963, "descripcion": "Publica 'Rayuela', obra cumbre del boom latinoamericano." }
+    ]
+  },
+  {
+    "nombre": "Gabriel García Márquez",
+    "nacimiento": 1927,
+    "eventos": [
+      { "año": 1967, "descripcion": "Publica 'Cien años de soledad', piedra angular del realismo mágico." },
+      { "año": 1982, "descripcion": "Recibe el Premio Nobel de Literatura." }
+    ]
+  },
+  {
+    "nombre": "William Shakespeare",
+    "nacimiento": 1564,
+    "eventos": [
+      { "año": 1599, "descripcion": "Se inaugura el teatro The Globe en Londres." },
+      { "año": 1603, "descripcion": "Escribe 'Hamlet', una de las tragedias más influyentes de la lengua inglesa." }
+    ]
+  },
+  {
+    "nombre": "Alejandro Magno",
+    "nacimiento": -356,
+    "eventos": [
+      { "año": -331, "descripcion": "Derrota a Darío III en la Batalla de Gaugamela, conquistando Persia." },
+      { "año": -323, "descripcion": "Muere en Babilonia tras crear uno de los imperios más grandes de la historia." }
+    ]
+  },
+  {
+    "nombre": "Gengis Kan",
+    "nacimiento": 1162,
+    "eventos": [
+      { "año": 1206, "descripcion": "Logra la unificación de las tribus nómadas del noreste de Asia." },
+      { "año": 1227, "descripcion": "Fallece habiendo fundado el imperio de tierras contiguas más extenso." }
+    ]
+  },
+  {
+    "nombre": "Juana de Arco",
+    "nacimiento": 1412,
+    "eventos": [
+      { "año": 1429, "descripcion": "Levanta el asedio de Orleans durante la Guerra de los Cien Años." },
+      { "año": 1431, "descripcion": "Es ejecutada en la hoguera en Ruan." }
+    ]
+  },
+  {
+    "nombre": "Rishi Sunak",
+    "nacimiento": 1980,
+    "eventos": [
+      { "año": 1980, "descripcion": "Nacimiento en Southampton, Reino Unido." },
+      { "año": 2022, "descripcion": "Asume como Primer Ministro del Reino Unido." }
+    ]
+  },
+  {
+    "nombre": "Franco Colapinto",
+    "nacimiento": 2003,
+    "eventos": [
+      { "año": 2003, "descripcion": "Nacimiento en Pilar, Buenos Aires." },
+      { "año": 2024, "descripcion": "Debuta en la Fórmula 1 con la escudería Williams, devolviendo a Argentina a la categoría tras 23 años." }
+    ]
+  },
+  {
+    "nombre": "María Becerra",
+    "nacimiento": 2000,
+    "eventos": [
+      { "año": 2000, "descripcion": "Nacimiento en Quilmes, Buenos Aires." },
+      { "año": 2024, "descripcion": "Se convierte en la primera mujer argentina en llenar el Estadio River Plate por dos noches consecutivas." }
+    ]
+  },
+  {
+    "nombre": "Duki",
+    "nacimiento": 1996,
+    "eventos": [
+      { "año": 1996, "descripcion": "Nacimiento en Almagro, Buenos Aires." },
+      { "año": 2017, "descripcion": "Gana la competencia El Quinto Escalón, impulsando el género trap en el país." },
+      { "año": 2024, "descripcion": "Llena el Estadio Santiago Bernabéu en Madrid." }
+    ]
+  },
+  {
+  "nombre": "José Raúl Capablanca",
+  "nacimiento": 1888,
+  "eventos": [
+    { "año": 1888, "descripcion": "Nacimiento en La Habana, Cuba." },
+    { "año": 1892, "descripcion": "A los 4 años aprende a jugar solo mirando a su padre; derrota al campeón de Cuba a los 12." },
+    { "año": 1911, "descripcion": "Gana el torneo de San Sebastián en su debut europeo, asombrando al mundo." },
+    { "año": 1916, "descripcion": "Inicia un periodo de 8 años (hasta 1924) sin perder ni una sola partida oficial." },
+    { "año": 1921, "descripcion": "Se convierte en Campeón del Mundo tras derrotar a Emanuel Lasker en La Habana." },
+    { "año": 1927, "descripcion": "Pierde el título mundial ante Alexander Alekhine en el histórico match de Buenos Aires." },
+    { "año": 1942, "descripcion": "Fallece en Nueva York tras sufrir un colapso en el Club de Ajedrez de Manhattan." }
+  ]
+  },
+  {
+  "nombre": "Ajedrez (Evolución)",
+  "nacimiento": 550,
+  "eventos": [
+    { "año": 550, "descripcion": "Surge el Chaturanga en la India, el antecesor más antiguo documentado del ajedrez." },
+    { "año": 1475, "descripcion": "Se establecen en España las reglas modernas: la Reina se convierte en la pieza más poderosa." },
+    { "año": 1851, "descripcion": "Se celebra en Londres el primer torneo internacional de la era moderna." },
+    { "año": 1886, "descripcion": "Wilhelm Steinitz se convierte en el primer Campeón Mundial oficial de la historia." },
+    { "año": 1924, "descripcion": "Fundación de la FIDE (Federación Internacional de Ajedrez) en París." },
+    { "año": 1997, "descripcion": "La supercomputadora Deep Blue de IBM derrota al campeón Garry Kasparov." },
+    { "año": 2017, "descripcion": "AlphaZero de Google aprende a jugar en 4 horas y derrota a los programas más fuertes." }
+  ]
+  },
+  {
+  "nombre": "Magnus Carlsen",
+  "nacimiento": 1990,
+  "eventos": [
+    { "año": 1990, "descripcion": "Nacimiento en Tønsberg, Noruega." },
+    { "año": 2004, "descripcion": "Se convierte en Gran Maestro a los 13 años y entabla una partida contra Kasparov." },
+    { "año": 2010, "descripcion": "Alcanza el número 1 del ranking mundial por primera vez a los 19 años." },
+    { "año": 2013, "descripcion": "Se proclama Campeón Mundial tras vencer a Viswanathan Anand." },
+    { "año": 2014, "descripcion": "Logra el ELO más alto de la historia (2882), un récord que aún mantiene." },
+    { "año": 2023, "descripcion": "Renuncia a defender su título mundial, prefiriendo enfocarse en otros formatos de juego." }
+  ]
+  },
+  {
+  "nombre": "Hikaru Nakamura",
+  "nacimiento": 1987,
+  "eventos": [
+    { "año": 1987, "descripcion": "Nacimiento en Hirakata, Japón." },
+    { "año": 2003, "descripcion": "Rompe el récord de Bobby Fischer al convertirse en el GM más joven de EE. UU." },
+    { "año": 2011, "descripcion": "Gana el prestigioso torneo Tata Steel, consolidándose en la élite mundial." },
+    { "año": 2020, "descripcion": "Explota como streamer durante la pandemia, acercando el ajedrez a millones en Twitch." },
+    { "año": 2024, "descripcion": "Se mantiene en el Top 2 mundial, demostrando una longevidad excepcional en la élite." }
+  ]
+  },
+  {
+  "nombre": "Judit Polgár",
+  "nacimiento": 1976,
+  "eventos": [
+    { "año": 1976, "descripcion": "Nacimiento en Budapest, Hungría." },
+    { "año": 1991, "descripcion": "Se convierte en Gran Maestro a los 15 años, superando el récord de Bobby Fischer." },
+    { "año": 2002, "descripcion": "Derrota a Garry Kasparov en una partida rápida, siendo la primera mujer en lograrlo." },
+    { "año": 2005, "descripcion": "Se convierte en la única mujer en la historia en entrar al Top 10 mundial absoluto (n.º 8)." },
+    { "año": 2014, "descripcion": "Anuncia su retiro de la competición profesional tras ganar la medalla de plata en la Olimpiada." }
+  ]
+  },    
+  {
+    "nombre": "Bizarrap",
+    "nacimiento": 1998,
+    "eventos": [
+      { "año": 1998, "descripcion": "Nacimiento en Ramos Mejía, Buenos Aires." },
+      { "año": 2023, "descripcion": "Lanza la 'BZRP Music Sessions, Vol. 53' junto a Shakira, rompiendo múltiples récords mundiales." }
+    ]
+  },
+  {
+    "nombre": "Emiliano 'Dibu' Martínez",
+    "nacimiento": 1992,
+    "eventos": [
+      { "año": 1992, "descripcion": "Nacimiento en Mar del Plata." },
+      { "año": 2022, "descripcion": "Gana el Guante de Oro en el Mundial de Qatar tras una atajada histórica en el último minuto de la final." },
+      { "año": 2023, "descripcion": "Gana el premio Lev Yashin al mejor portero del mundo." }
+    ]
+  },
+  {
+    "nombre": "Dillom",
+    "nacimiento": 2000,
+    "eventos": [
+      { "año": 2000, "descripcion": "Nacimiento en Ciudad de Buenos Aires." },
+      { "año": 2021, "descripcion": "Lanza 'Post Mortem', considerado uno de los álbumes más disruptivos de la nueva escena." }
+    ]
+  },
+  {
+    "nombre": "Marcos Galperin",
+    "nacimiento": 1971,
+    "eventos": [
+      { "año": 1971, "descripcion": "Nacimiento en Buenos Aires." },
+      { "año": 1999, "descripcion": "Funda Mercado Libre en un garage de Saavedra." },
+      { "año": 2020, "descripcion": "Mercado Libre se consolida como la empresa más valiosa de América Latina." }
+    ]
+  },
+  {
+    "nombre": "Guillermo Francella",
+    "nacimiento": 1955,
+    "eventos": [
+      { "año": 1955, "descripcion": "Nacimiento en Buenos Aires." },
+      { "año": 2009, "descripcion": "Protagoniza 'El secreto de sus ojos', ganadora del Óscar a Mejor Película Extranjera." },
+      { "año": 2022, "descripcion": "Protagoniza 'El Encargado', éxito masivo en plataformas de streaming." }
+    ]
+  },
+  {
+    "nombre": "Spreen",
+    "nacimiento": 2000,
+    "eventos": [
+      { "año": 2000, "descripcion": "Nacimiento en Santo Tomé, Santa Fe." },
+      { "año": 2023, "descripcion": "Se consagra como el streamer más visto de habla hispana fuera de España." }
+    ]
+  },
+  {
+    "nombre": "Darío Sztajnszrajber",
+    "nacimiento": 1968,
+    "eventos": [
+      { "año": 1968, "descripcion": "Nacimiento en Buenos Aires." },
+      { "año": 2011, "descripcion": "Estrena 'Mentira la verdad' en Canal Encuentro, popularizando la filosofía en televisión." }
+    ]
+  },
+  {
+    "nombre": "Maru Botana",
+    "nacimiento": 1969,
+    "eventos": [
+      { "año": 1969, "descripcion": "Nacimiento en Buenos Aires." },
+      { "año": 1998, "descripcion": "Comienza su programa 'Todo dulce', convirtiéndose en un ícono de la cocina televisiva." }
+    ]
+  },
+  {
+    "nombre": "Gordo Dan (Daniel Parisini)",
+    "nacimiento": 1992,
+    "eventos": [
+      { "año": 1992, "descripcion": "Nacimiento en Santiago del Estero." },
+      { "año": 2023, "descripcion": "Se convierte en una figura central de la comunicación digital pro-Milei durante las elecciones." }
+    ]
+  },
+  {
+    "nombre": "Nicolás Promanzio",
+    "nacimiento": 1985,
+    "eventos": [
+      { "año": 2023, "descripcion": "Se vuelve viral y referente en el análisis de redes sociales y streaming político." }
+    ]
+  },
+  {
+    "nombre": "Gordo Pablo",
+    "nacimiento": 1988,
+    "eventos": [
+      { "año": 2024, "descripcion": "Figura reconocida en la comunidad de X (Twitter) argentina por su activismo digital." }
+    ]
+  },
+  {
+    "nombre": "Nico Occhiato",
+    "nacimiento": 1992,
+    "eventos": [
+      { "año": 1992, "descripcion": "Nacimiento en Ramos Mejía." },
+      { "año": 2020, "descripcion": "Funda Luzu TV, revolucionando el formato de radio visual por streaming." }
+    ]
+  },
+  {
+    "nombre": "Lauren Phillips",
+    "nacimiento": 1987,
+    "eventos": [
+      { "año": 1987, "descripcion": "Nacimiento en Atlantic City, Nueva Jersey." },
+      { "año": 2012, "descripcion": "Inicia su carrera en la industria del entretenimiento para adultos." },
+      { "año": 2017, "descripcion": "Gana reconocimiento internacional y premios destacados en su categoría." }
+    ]
+  },
+  {
+    "nombre": "Johnny Sins",
+    "nacimiento": 1978,
+    "eventos": [
+      { "año": 1978, "descripcion": "Nacimiento en Pittsburgh, Pensilvania." },
+      { "año": 2006, "descripcion": "Debuta profesionalmente en la industria." },
+      { "año": 2018, "descripcion": "Se convierte en un fenómeno viral en redes sociales y YouTube, trascendiendo su industria original." }
+    ]
+  },
+  {
+    "nombre": "Danny D",
+    "nacimiento": 1987,
+    "event": [
+      { "año": 1987, "descripcion": "Nacimiento en Maidstone, Kent, Inglaterra." },
+      { "año": 2006, "descripcion": "Comienza su trayectoria profesional en el Reino Unido." },
+      { "año": 2017, "descripcion": "Es premiado como uno de los intérpretes más influyentes de la industria europea." }
+    ]
+  },
+  {
+    "nombre": "Jimmy Michaels",
+    "nacimiento": 1981,
+    "eventos": [
+      { "año": 1981, "descripcion": "Nacimiento en Estados Unidos." },
+      { "año": 2005, "descripcion": "Inicia su carrera profesional." },
+      { "año": 2015, "descripcion": "Consolida su carrera con múltiples premios y nominaciones técnicas." }
+    ]
+  },
+  {
+    "nombre": "Natasha Nice",
+    "nacimiento": 1988,
+    "eventos": [
+      { "año": 1988, "descripcion": "Nacimiento en Niza, Francia." },
+      { "año": 2006, "descripcion": "Entra en la industria del entretenimiento a los 18 años." },
+      { "año": 2010, "descripcion": "Alcanza el pico de su popularidad con contratos de exclusividad en grandes estudios." }
+    ]
+  },
+  {
+    "nombre": "Manuel Belgrano",
+    "nacimiento": 1770,
+    "eventos": [
+      { "año": 1770, "descripcion": "Nacimiento en Buenos Aires." },
+      { "año": 1810, "descripcion": "Participa como vocal en la Primera Junta de Gobierno." },
+      { "año": 1812, "descripcion": "Crea y enarbola por primera vez la Bandera Nacional en Rosario." },
+      { "año": 1820, "descripcion": "Fallecimiento en Buenos Aires." }
+    ]
+  },
+  {
+    "nombre": "José de San Martín",
+    "nacimiento": 1778,
+    "eventos": [
+      { "año": 1778, "descripcion": "Nacimiento en Yapeyú, Corrientes." },
+      { "año": 1812, "descripcion": "Retorna a Buenos Aires y crea el Regimiento de Granaderos a Caballo." },
+      { "año": 1817, "descripcion": "Inicia el Cruce de los Andes para liberar Chile." },
+      { "año": 1821, "descripcion": "Proclama la Independencia del Perú y es nombrado Protector." }
+    ]
+  },
+  {
+    "nombre": "Juana Azurduy",
+    "nacimiento": 1780,
+    "eventos": [
+      { "año": 1780, "descripcion": "Nacimiento en Chuquisaca (actual Bolivia)." },
+      { "año": 1809, "descripcion": "Se une junto a su esposo a la revolución contra el dominio español." },
+      { "año": 1816, "descripcion": "Manuel Belgrano le entrega su sable en reconocimiento a su valor en combate." }
+    ]
+  },
+  {
+    "nombre": "Juan Manuel de Rosas",
+    "nacimiento": 1793,
+    "eventos": [
+      { "año": 1793, "descripcion": "Nacimiento en Buenos Aires." },
+      { "año": 1829, "descripcion": "Asume como Gobernador de Buenos Aires con Facultades Extraordinarias." },
+      { "año": 1845, "descripcion": "Defensa de la soberanía en la Batalla de la Vuelta de Obligado." },
+      { "año": 1852, "descripcion": "Es derrotado en la Batalla de Caseros y parte al exilio." }
+    ]
+  },
+  {
+    "nombre": "Domingo Faustino Sarmiento",
+    "nacimiento": 1811,
+    "eventos": [
+      { "año": 1811, "descripcion": "Nacimiento en San Juan." },
+      { "año": 1845, "descripcion": "Publica 'Facundo o civilización y barbarie' durante su exilio en Chile." },
+      { "año": 1868, "descripcion": "Asume la Presidencia de la Nación, impulsando la educación pública." },
+      { "año": 1884, "descripcion": "Se sanciona la Ley 1420 de educación común, gratuita y obligatoria." }
+    ]
+  },
+  {
+    "nombre": "Julio Argentino Roca",
+    "nacimiento": 1843,
+    "eventos": [
+      { "año": 1843, "descripcion": "Nacimiento en San Miguel de Tucumán." },
+      { "año": 1879, "descripcion": "Lidera la denominada 'Campaña del Desierto'." },
+      { "año": 1880, "descripcion": "Inicia su primera presidencia y consolida el Estado Nacional." }
+    ]
+  },
+  {
+    "nombre": "Eva Perón",
+    "nacimiento": 1919,
+    "eventos": [
+      { "año": 1919, "descripcion": "Nacimiento en Los Toldos, Buenos Aires." },
+      { "año": 1947, "descripcion": "Se promulga la Ley de Voto Femenino en Argentina." },
+      { "año": 1948, "descripcion": "Crea la Fundación Eva Perón para ayuda social." },
+      { "año": 1951, "descripcion": "Renuncia a la candidatura a la vicepresidencia (El Cabildo Abierto)." }
+    ]
+  },
+  {
+    "nombre": "Cristina Fernández de Kirchner",
+    "nacimiento": 1953,
+    "eventos": [
+      { "año": 1953, "descripcion": "Nacimiento en La Plata." },
+      { "año": 2007, "descripcion": "Se convierte en la primera mujer elegida Presidenta por el voto popular." },
+      { "año": 2011, "descripcion": "Es reelecta con el 54% de los votos." },
+      { "año": 2019, "descripcion": "Asume el cargo de Vicepresidenta de la Nación." }
+    ]
+  },
+  {
+    "nombre": "Nicolás del Caño",
+    "nacimiento": 1980,
+    "eventos": [
+      { "año": 1980, "descripcion": "Nacimiento en Córdoba." },
+      { "año": 2013, "descripcion": "Es elegido Diputado Nacional por la provincia de Mendoza (FIT)." },
+      { "año": 2015, "descripcion": "Candidato a Presidente de la Nación por primera vez." }
+    ]
+  },
+  {
+  "nombre": "Pokémon (Franquicia)",
+  "nacimiento": 1996,
+  "eventos": [
+    { "año": 1996, "descripcion": "Lanzamiento de Pokémon Rojo y Verde en Japón (Game Boy) y estreno del Juego de Cartas (TCG)." },
+    { "año": 1997, "descripcion": "Se estrena el anime en Japón con Ash Ketchum y Pikachu como protagonistas." },
+    { "año": 1998, "descripcion": "Pokémon llega a Occidente (Rojo y Azul) y se desata la 'Pokemanía' global." },
+    { "año": 1999, "descripcion": "Lanzamiento de Pokémon Oro y Plata, introduciendo 100 nuevas especies y el ciclo día/noche." },
+    { "año": 2003, "descripcion": "The Pokémon Company asume el control total del TCG, expandiendo las cartas a nivel competitivo mundial." },
+    { "año": 2013, "descripcion": "Lanzamiento de Pokémon X e Y: primer salto total a los gráficos 3D y llegada de las Megaevoluciones." },
+    { "año": 2016, "descripcion": "Fenómeno global de Pokémon GO y lanzamiento de Sol y Luna por el 20.º aniversario." },
+    { "año": 2022, "descripcion": "Lanzamiento de Escarlata y Púrpura, introduciendo el primer mundo abierto real de la saga." }
+  ]
+  },
+  {
+  "nombre": "PlayStation (Sony)",
+  "nacimiento": 1994,
+  "eventos": [
+    { "año": 1994, "descripcion": "Lanzamiento de la PlayStation original (PS1) en Japón, revolucionando los juegos en CD." },
+    { "año": 1997, "descripcion": "Final Fantasy VII se convierte en un éxito masivo, consolidando a la marca en Occidente." },
+    { "año": 2000, "descripcion": "Lanzamiento de la PlayStation 2, que se convertiría en la consola más vendida de la historia." },
+    { "año": 2005, "descripcion": "Nace la franquicia 'God of War', definiendo el género de acción de la época." },
+    { "año": 2006, "descripcion": "Lanzamiento de la PlayStation 3, introduciendo el formato Blu-ray y juego online gratuito." },
+    { "año": 2013, "descripcion": "Lanzamiento de la PlayStation 4 y del aclamado 'The Last of Us' (final de generación PS3)." },
+    { "año": 2018, "descripcion": "Lanzamiento de 'God of War' (reboot) y 'Spider-Man', hitos técnicos de la PS4." },
+    { "año": 2020, "descripcion": "Lanzamiento de la PlayStation 5 con carga instantánea gracias a su disco SSD." }
+  ]
+  },
+  {
+  "nombre": "Coca-Cola",
+  "nacimiento": 1886,
+  "eventos": [
+    { "año": 1886, "descripcion": "John Pemberton inventa el jarabe en Atlanta y se vende como bebida de fuente de soda." },
+    { "año": 1893, "descripcion": "Se registra oficialmente la marca y el famoso logo en tipografía Spencerian." },
+    { "año": 1915, "descripcion": "Se diseña y patenta la icónica 'Botella Contour', reconocible incluso en la oscuridad." },
+    { "año": 1928, "descripcion": "Inicia su histórica asociación con los Juegos Olímpicos en Ámsterdam." },
+    { "año": 1931, "descripcion": "Campaña navideña que populariza la imagen moderna de Papá Noel con los colores de la marca." },
+    { "año": 1945, "descripcion": "Se registra 'Coke' como marca oficial tras años de uso popular." },
+    { "año": 1985, "descripcion": "El desastre de la 'New Coke': cambian la fórmula y la presión del público obliga a volver a la original." },
+    { "año": 2011, "descripcion": "La receta secreta se traslada a una bóveda visible en el museo World of Coca-Cola." }
+  ]
+  },
+  {
+  "nombre": "Stan Lee",
+  "nacimiento": 1922,
+  "eventos": [
+    { "año": 1922, "descripcion": "Nacimiento en Manhattan, Nueva York." },
+    { "año": 1939, "descripcion": "Entra a trabajar como asistente en Timely Comics (futura Marvel)." },
+    { "año": 1961, "descripcion": "Publica 'Los 4 Fantásticos #1', iniciando la era moderna de Marvel." },
+    { "año": 1962, "descripcion": "Crea a Spider-Man junto a Steve Ditko en Amazing Fantasy #15." },
+    { "año": 1963, "descripcion": "Co-crea a los X-Men y a los Vengadores, revolucionando el género de superhéroes." },
+    { "año": 1972, "descripcion": "Se convierte en el editor y rostro público de Marvel Comics." },
+    { "año": 2008, "descripcion": "Aparece en Iron Man, iniciando su famosa tradición de cameos en el MCU." },
+    { "año": 2018, "descripcion": "Fallecimiento en Los Ángeles a los 95 años, dejando un legado masivo." }
+  ]
+  },
+  {
+  "nombre": "Universo Marvel (MCU)",
+  "nacimiento": 2008,
+  "eventos": [
+    { "año": 2008, "descripcion": "Se estrena 'Iron Man', la piedra angular del universo interconectado." },
+    { "año": 2012, "descripcion": "Lanzamiento de 'The Avengers', demostrando que el formato de crossover funciona." },
+    { "año": 2014, "descripcion": "Estreno de 'Guardianes de la Galaxia', expandiendo el universo al espacio." },
+    { "año": 2018, "descripcion": "Llegada de 'Infinity War', el inicio del clímax de la Saga del Infinito." },
+    { "año": 2019, "descripcion": "Endgame se convierte temporalmente en la película más taquillera de la historia." },
+    { "año": 2021, "descripcion": "Inicia la Fase 4 con series en Disney+ y el concepto del Multiverso." }
+  ]
+  },
+  {
+  "nombre": "Universo DC",
+  "nacimiento": 1934,
+  "eventos": [
+    { "año": 1934, "descripcion": "Fundación de National Allied Publications (que luego sería DC Comics)." },
+    { "año": 1938, "descripcion": "Aparece Superman en Action Comics #1, el primer gran superhéroe." },
+    { "año": 1939, "descripcion": "Batman debuta en Detective Comics #27." },
+    { "año": 1960, "descripcion": "Primera aparición de la Liga de la Justicia en 'The Brave and the Bold'." },
+    { "año": 2013, "descripcion": "Inicia el universo cinematográfico moderno con 'El Hombre de Acero'." },
+    { "año": 2025, "descripcion": "Lanzamiento previsto de 'Superman' de James Gunn, reiniciando el universo DCU." }
+  ]
+  },
+  {
+  "nombre": "Carrera Espacial",
+  "nacimiento": 1957,
+  "eventos": [
+    { "año": 1957, "descripcion": "La URSS lanza el Sputnik 1, el primer satélite artificial de la historia." },
+    { "año": 1961, "descripcion": "Yuri Gagarin se convierte en el primer ser humano en orbitar la Tierra." },
+    { "año": 1963, "descripcion": "Valentina Tereshkova se convierte en la primera mujer en viajar al espacio." },
+    { "año": 1969, "descripcion": "La misión Apolo 11 llega a la Luna; Neil Armstrong es el primer hombre en pisarla." },
+    { "año": 1981, "descripcion": "Primer vuelo del Transbordador Espacial (Columbia) de la NASA." },
+    { "año": 1990, "descripcion": "Puesta en órbita del Telescopio Espacial Hubble." },
+    { "año": 1998, "descripcion": "Comienza la construcción de la Estación Espacial Internacional (ISS)." },
+    { "año": 2021, "descripcion": "Lanzamiento del Telescopio James Webb para observar el origen del universo." }
+  ]
+  },
+  {
+    "nombre": "Ofelia Fernández",
+    "nacimiento": 2000,
+    "eventos": [
+      { "año": 2000, "descripcion": "Nacimiento en Buenos Aires." },
+      { "año": 2017, "descripcion": "Presidenta del centro de estudiantes del Carlos Pellegrini y referente estudiantil." },
+      { "año": 2019, "descripcion": "Se convierte en la legisladora más joven de la historia de la Ciudad de Buenos Aires." }
+    ]
+  }
+]
